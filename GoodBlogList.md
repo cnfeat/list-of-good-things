@@ -63,19 +63,46 @@
 ## 推荐订阅工具：
 
 
-- 网页：inoreader
+- 网页：[inoreader](http://www.inoreader.com/)
 - 客户端
-	+ Mac：Reeder
-	+ iOS：Reeder
-	+ Win：None
-	+ Andriod：None
+	+ Mac：[Reeder](http://reederapp.com/)
+	+ iOS：[Reeder](http://reederapp.com/)
+	+ Win：待补增
+	+ Andriod：待补增
 
-## 如何使用RSS
+## 如何使用 RSS
 
-- [RSS订阅的使用](http://www.jianshu.com/p/a589bce7d7cf)
-- 或者注册Inoreader之后，直接点「+」，粘贴博客地址即可。
+注册 inoreader 之后，直接点「+」，粘贴博客地址即可。
 
 ![](http://cnfeat.qiniudn.com/Image-000-11-05-10-01.png)
+
+参考：[RSS订阅的使用](http://www.jianshu.com/p/a589bce7d7cf)
+
+
+## 用 Chrome 插件一键订阅
+
+[RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?utm_source=chrome-ntp-icon) 是 Google 官方出品的插件，虽然最后的一次的更新是在 2014年8月25日，可宝刀未老。
+
+此插件可以自动识别出绝大部分支持 RSS 订阅的站点，并且在地址栏显示可订阅的图标，单击此图标，则可以选择订阅的组块。
+
+![](http://openmindclub.qiniudn.com/team/cnfeat/image/RSS-Subscription.jpg)
+
+安装此插件之后，需要对 RSS Subscription Extension 进行配置，进入该插件的设置，增加一条如下的设置即可。
+
+![](http://openmindclub.qiniudn.com/team/cnfeat/image/inoreader-setting.jpg)
+
+> http://www.inoreader.com/feed/%s
+
+## 各站点订阅方法
+
++ 微信公众号
+	+ [微广场](http://rss.catcoder.com/)
+	+ 作者：[CatCoder](http://www.catcoder.com/)
+- 简书
+	- [Jianshu RSS](http://jianshu.milkythinking.com/)
+	+ 作者：[MilkyThinking](http://milkythinking.com/)
+- 知乎专栏
+	+ 支持直接订阅
 
 ## 挖坑
 
@@ -85,6 +112,6 @@
 ## 更新
 
 
-
-
+- 2016-01-21 00:16:46 补增各站点订阅方法和RSS Subscription Extension 插件
+- 2016-01-20 10:38:02 补增参考文章
 - 2016-01-17 10:33:59 增加安猪博客
