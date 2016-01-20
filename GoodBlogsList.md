@@ -10,7 +10,7 @@
 
 注：尚未有评分维度，目前都是四星
 
-评分   |  博主 | 名称    | 备注说明 
+评分   |  博主 | 名称    | 备注 
 ----- | ----- | ------ | -----
 ★★★★☆ | 傅国涌|[笔底波澜](http://blog.sina.com.cn/fuguoyong)|#
 ★★★★☆ | Yurii|[乱象，印迹](http://www.luanxiang.org/blog)|#
@@ -30,7 +30,7 @@
 ★★★★☆ | zhengziying|[flow with the life](http://zhengziying.com)|#
 ★★★★☆ | 熊阿姨|[楼群中的飞行](http://www.auntbear.com)|#
 ★★★★☆ |张悦悦|[一桌一椅一世界](http://dajoy.blogbus.com)|#
-★★★★☆ | Type is Beautiful|[Type is Beautiful](http://www.typeisbeautiful.com|#
+★★★★☆ | Type is Beautiful|[Type is Beautiful](http://www.typeisbeautiful.com)|#
 ★★★★☆ | 人月神话|[人月神话](http://blog.sina.com.cn/cmmi)|#
 ★★★★☆ | 魏武挥|[扯氮集](http://mednoter.com)|#
 ★★★★☆ | 师北宸|[Digital Meme](http://shibeichen.com)|#
@@ -40,7 +40,6 @@
 ★★★★☆ | 黄集伟|[孤岛客](http://www.huangjiwei.com/blog)|#
 ★★★★☆ | 小强|[小强的时间管理博客](http://www.gtdlife.com)|#
 ★★★★☆ | 褪墨|[褪墨・时间管理](http://www.mifengtd.cn)|#
-★★★★☆ | 南桥|[南桥的博客](http://berlinfang.blog.163.com)|#
 ★★★★☆ | 杨天颖|[Presenting to Win](http://www.arshina.com/)|#
 ★★★★☆ | 人生不过如此|[人生不过如此](http://nana.blog.paowang.net/)|#
 ★★★★☆ | 嘉倩|[嘉倩姑娘的博客](http://blog.sina.com.cn/mejiaqian)|#
@@ -52,11 +51,13 @@
 ★★★★☆ | Sand|[沙窝](http://sandliu.me/)|#
 ★★★★☆ | 安猪|[安猪](http://anzhu.net/)|社会创新x教育x社会企业
 ★★★★☆ | 采铜|[开放的智力](http://zhuanlan.zhihu.com/intelligence)|#
-★★★★☆ | 待补增|[带补增](http://www.cnfeat.com)|#
+★★★★☆ | 待补增|[待补增](http://www.cnfeat.com)|#
 # | #|#|#
 ★★★★☆ | 陈素封|[独立写生](http://www.cnfeat.com)|#
 
+## 参考文章
 
+[我为何将所有微信订阅号都取关了？ - 读立写生](http://cnfeat.com/blog/2016/01/19/wechat-subscription/)
 
 
 ## 推荐订阅工具：
@@ -75,6 +76,10 @@
 - 或者注册Inoreader之后，直接点「+」，粘贴博客地址即可。
 
 ![](http://cnfeat.qiniudn.com/Image-000-11-05-10-01.png)
+
+## 挖坑
+
+待完整更新之后，补增 opml 文件
 
 
 ## 更新
