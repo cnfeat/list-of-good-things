@@ -50,7 +50,15 @@
 ★★★★☆ | Sand|[沙窝](http://sandliu.me/)|#
 ★★★★☆ | Sand|[沙窝](http://sandliu.me/)|#
 ★★★★☆ | 安猪|[安猪](http://anzhu.net/)|社会创新x教育x社会企业
+★★★★☆ | 待补增|[待补增](http://www.cnfeat.com)|#
+知乎专栏| #|#|#
 ★★★★☆ | 采铜|[开放的智力](http://zhuanlan.zhihu.com/intelligence)|#
+★★★★☆ | 待补增|[待补增](http://www.cnfeat.com)|#
+简书| #|#|#
+★★★★☆ | 待补增|[待补增](http://www.cnfeat.com)|#
+微信公众号| #|#|#
+★★★★☆ | 李笑来|[学习学习再学习](http://www.cnfeat.com)|#
+★★★★☆ | 待补增|[待补增](http://www.cnfeat.com)|#
 ★★★★☆ | 待补增|[待补增](http://www.cnfeat.com)|#
 # | #|#|#
 ★★★★☆ | 陈素封|[独立写生](http://www.cnfeat.com)|#
