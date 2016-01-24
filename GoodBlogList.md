@@ -12,6 +12,9 @@
 
 为你精选 100 个订阅源，如果你懒得甄选，有这100个足矣。
 
+- [文件地址](https://github.com/cnfeat/GoodThingList/blob/master/100Subscriptions.xml)
+- [下载地址](https://github.com/cnfeat/GoodThingList/archive/master.zip)
+	+ 解压得出`100Subscriptions.xml`
 
 使用方法：在阅读器导入即可
 
@@ -53,7 +56,7 @@
 ★★★★☆ | 木遥|[木遥的窗子](http://blog.farmostwood.net)|#
 ★★★★☆ | Sand|[沙窝](http://sandliu.me/)|#
 ★★★★☆ | 扫地老僧 |[扫地老僧的Blog](http://www.doyj.com/)|#
-★★★★☆ | Yuanhang Shen|[远航博客 - 不妥协的生活艺术](http://yuanhang.me/)|#
+★★★★☆ | Yuanhang Shen|[远航博客 ](http://yuanhang.me/)|#
 ★★★★☆ | 王烁|[两面埋伏](http://wangshuo.blog.caixin.com)|#
 ★★★★☆ | 王文勇|[异乡的路](http://wangwenyong.blog.caixin.com)|#
 ★★★★☆ | 刘淼|[淼有音信](http://blog.liumiao.com/)|#
@@ -73,7 +76,7 @@
 ★★★★☆ | learningtime|[Learning Time](http://learningtime.lofter.com/)|#
 ★★★★☆ | 蔡志浩|[Taiwan 2.0](http://taiwan.chtsai.org/)|#
 ★★★★☆ | 邹剑波|[Kant's House](http://kant.cc/)|#
-★★★★☆ | Josui|[Josui Writings](http://blog.josui.me//|#
+★★★★☆ | Josui|[Josui Writings](http://blog.josui.me//)|#
 ★★★★☆ | Huiris|[Huiris's Blog](http://huiris.com/)|#
 ★★★★☆ | 余弦|[[EVILCOS](http://evilcos.me/)|#
 ★★★★☆ | 程亦超|[dreamsome](http://dreamsome.org/)|#
@@ -82,9 +85,9 @@
 ★★★★☆ | 春田冰河|[Chun Tian (binghe)](http://tianchunbinghe.blog.163.com/)|#
 ★★★★☆ | 郑伊廷|[XDite](http://blog.xdite.net/)|#
 ★★★★☆ | 王佩|[白板报 ](http://www.baibanbao.net/)|#
-★★★★☆ | 比目鱼|[比目鱼博客：Bimuyu's Blog](http://www.bimuyu.com/blog/)|#
+★★★★☆ | 比目鱼|[比目鱼博客](http://www.bimuyu.com/blog/)|#
 ★★★★☆ | 道哥|[道哥的黑板报](http://www1.taosay.net/)|#
-#| #|#|#
+OPC| #|#|#
 ★★★★☆ | 安猪|[安猪](http://anzhu.net/)|OPC
 ★★★★☆ | 阳志平|[阳志平的网志](http://www.yangzhiping.com)|OPC
 ★★★★☆ | 大妈|[#是也乎#ZoomQuiet](http://blog.zoomquiet.io)|OPC
@@ -92,13 +95,14 @@
 ★★★★☆ | OliveDing|[Swordi Media Lab](http://swordi.com)|OPC
 ★★★★☆ | TonyYet|[Accentuate the Positive](http://www.tonyyet.com)|OPC
 ★★★★☆ | 必晴|[琴韵小筑](http://biqin.me/)|OPC
-★★★★☆ | [Yixuan](http://yixuan.li/)|[Yixuan](http://yixuan.li/)|OPC
+★★★★☆ | Yixuan|[Yixuan](http://yixuan.li/)|OPC
 ★★★★☆ | Azeril|[Microdust](http://azeril.me//)|OPC
 ★★★★☆ | Danny Yu|[Life Growing](http://www.lifegrowing.me/)|OPC
 ★★★★☆ | Caos|[Caos blog](http://blog.caos.me/)|OPC
 ★★★★☆ | 00|[00's Adventure](http://www.uegeek.com/)|OPC
 ★★★★☆ | helenysli|[且行且珍惜](http://www.helenysli.com/ch/)|OPC
-#| #|#|#
+★★★★☆ | 轩铭|[不止读书](http://www.buzhinote.com/)|OPC
+站点| #|#|#
 ★★★★☆ | 喷嚏网|[喷嚏网](http://www.dapenti.com/)|#
 ★★★★☆ | apple4us|[apple4us](http://apple4us.com/)|#
 ★★★★☆ | IT 公论|[IT 公论 ](http://blog.itgonglun.com/)|#
@@ -115,14 +119,14 @@
 ★★★★☆ | Type is Beautiful|[Type is Beautiful](http://www.typeisbeautiful.com)|#
 ★★★★☆ | 少数派|[少数派](http://sspai.com/)|#
 ★★★★☆ | 待补增|[待补增](http://www.cnfeat.com)|#
-#| #|#|#
+图片| #|#|#
 ★★★★☆ | 程亦超|[dreamsome](http://dreamsome.org/)|漫画
 ★★★★☆ | xkcd|[xkcd](http://xkcd.com/)|漫画
 ★★★★☆ | smbc|[Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/)|漫画
 ★★★★☆ | pbfcomics|[The Perry Bible Fellowship](http://www.pbfcomics.com/)|漫画
 ★★★★☆ | berkeleymews|[Berkeley Mews](http://www.berkeleymews.com/)|漫画
 ★★★★☆ | 待补增|[待补增](http://www.cnfeat.com)|#
-# | #|#|#
+清单作者| #|#|#
 ★★★★☆ | 陈素封|[独立写生](http://www.cnfeat.com)|OPC
 
 ## 好·知乎专栏清单
@@ -180,17 +184,18 @@
 [我为何将所有微信订阅号都取关了？ - 读立写生](http://cnfeat.com/blog/2016/01/19/wechat-subscription/)
 
 
-## 推荐订阅工具：
+## 推荐订阅工具
 
 
 - 网页：[inoreader](http://www.inoreader.com/)
+- 网页插件：[RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?utm_source=chrome-ntp-icon) 
 - 客户端
 	+ Mac：[Reeder](http://reederapp.com/)
 	+ iOS：[Reeder](http://reederapp.com/)
 	+ Win：待补增
 	+ Andriod：待补增
 
-## 如何使用 RSS
+### 如何使用[inoreader](http://www.inoreader.com/)
 
 注册 inoreader 之后，直接点「+」，粘贴博客地址即可。
 
@@ -199,13 +204,13 @@
 参考：[RSS订阅的使用](http://www.jianshu.com/p/a589bce7d7cf)
 
 
-## 用 Chrome 插件一键订阅
+### 如何使用 [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?utm_source=chrome-ntp-icon)
 
 [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?utm_source=chrome-ntp-icon) 是 Google 官方出品的插件，虽然最后的一次的更新是在 2014年8月25日，可宝刀未老。
 
 此插件可以自动识别出绝大部分支持 RSS 订阅的站点，并且在地址栏显示可订阅的图标，单击此图标，则可以选择订阅的组块。
 
-![](http://openmindclub.qiniudn.com/team/cnfeat/image/RSS-Subscription.jpg)
+![](http://openmindclub.qiniudn.com/team/cnfeat/image/RSS-Subscription.jpg?imageMogr2/thumbnail/400x)
 
 安装此插件之后，需要对 RSS Subscription Extension 进行配置，进入该插件的设置，增加一条如下的设置即可。
 
@@ -213,7 +218,7 @@
 
 > http://www.inoreader.com/feed/%s
 
-## 各站点订阅方法
+## 推荐订阅方法
 
 + 微信公众号
 	+ [微广场](http://rss.catcoder.com/)
