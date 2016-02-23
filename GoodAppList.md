@@ -15,13 +15,29 @@
 
 ## sublime 
 
+sublime + Markdown 是目前使用 Markdown 书写最佳体验组合。之前尝试过 Mou、Macdown、MWeb等软件，都不能符合我的需求。
+
+配置参考文章
+
+- [近乎完美的 Markdown 写作体验 - Sublime Text 3 + OmniMarkupPreviewer](http://macplay.leanote.com/post/%E8%BF%91%E4%B9%8E%E5%AE%8C%E7%BE%8E%E7%9A%84-Markdown-%E5%86%99%E4%BD%9C%E4%BD%93%E9%AA%8C-Sublime-Text-3-OmniMarkupPreviewer)
 
 插件列表
 
+- Markdown Extended
+	+ 如在打开 md 文件时显示的颜色主题是 Markdown Light，你可以点击右下角来切换主题格式，切换默认主题可在格式列表的最顶，点击 「open all with current extensions as ……」点击你想要的格式即可。[在 Sublime 中配置 Markdown 环境 - Blog of 太极儒](http://frank19900731.github.io/blog/2015/04/13/zai-sublime-zhong-pei-zhi-markdown-huan-jing/)
+- MarkdownEditing
+- MarkdownEditing
+- MarkdownTOC
+- material-theme
+	+ 推荐 Markdown 颜色主题
 - SyncedSidebarBg
 	+ 可以将侧栏的背景颜色自动调节成与主题一致
 - SmartMarkdown
 - [Sublime Text 2 and Markdown: Tips, Tricks, and Links – MacStories](https://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/)
+
+使用备注：
+
+
 
 
 
@@ -110,4 +126,13 @@ http://pan.baidu.com/s/1hrddRKS
 
 
 # iOS
+
+## [WI输入法](http://wi.hit.edu.cn/)
+
+卸载了百度输入法之后，尝试了搜狗输入法，发现已经不能搜狗的键盘设定和设计逻辑，但又不想再用百度，尝试了讯飞和番茄，发现都不支持双拼，最后惊喜地发现了WI输入法，简洁优雅，简直就是iOS上的鼠须管，还支持自定义点滑设定，神了，马上将常用英文符号定制上。上图搜狗，下图WI。
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/SogouInput.jpg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/WiInput.jpg)
+
 
