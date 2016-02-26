@@ -17,3 +17,10 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 via [我的工具 | Accentuate the Positive](http://www.tonyyet.com/tools
 
 在挖掘好物清单时，建议聆听 [极致音乐清单](http://www.xiami.com/search/album/?spm=a1z1s.3521865.23309985.3.eDI0b6&key=The+Essential+Masterpieces)
+
+
+最后，如果你觉得好，请点个星表示鼓励，我会挺开心的。
+
+
+----
+此外，我开通了 元认知学习通讯，里面是有我学习元认知的一切资料， 你可以点击[存档](http://tinyletter.com/cnfeat/archive) 和 [备份博客](mesule.com) 查阅所有通讯，点击 [这里](http://tinyletter.com/cnfeat) 用邮件订阅或点击  [这里](http://mesule.com/) 用 RSS 订阅。此外，我还有 [博客](cnfeat.com) 和 [公众号](http://t.cn/RGaif2N)。

@@ -131,8 +131,8 @@ http://pan.baidu.com/s/1hrddRKS
 
 卸载了百度输入法之后，尝试了搜狗输入法，发现已经不能搜狗的键盘设定和设计逻辑，但又不想再用百度，尝试了讯飞和番茄，发现都不支持双拼，最后惊喜地发现了WI输入法，简洁优雅，简直就是iOS上的鼠须管，还支持自定义点滑设定，神了，马上将常用英文符号定制上。上图搜狗，下图WI。
 
-![](http://openmindclub.qiniudn.com/cnfeat/image/SogouInput.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/SogouInput.jpg?imageMogr2/thumbnail/400x)
 
-![](http://openmindclub.qiniudn.com/cnfeat/image/WiInput.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/WiInput.jpg?imageMogr2/thumbnail/400x)
 
 

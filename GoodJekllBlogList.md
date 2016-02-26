@@ -24,3 +24,5 @@
 	+ [mojombo/mojombo.github.io: Jekyll source for my personal blog.](https://github.com/mojombo/mojombo.github.io)
 - http://pazzilivo.github.io/
 	+ [Pazzilivo/pazzilivo.github.com: My Blog](https://github.com/Pazzilivo/pazzilivo.github.com)
+- xiaolai.github.com
+	+ [xiaolai/xiaolai.github.com](https://github.com/xiaolai/xiaolai.github.com)
