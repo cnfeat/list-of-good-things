@@ -1,4 +1,10 @@
-# 文案风格指南清单
+# 文案风格清单
+
+- 注意「地」的用法
+	+ 中文的叠词已经有副词的作用，例如慢慢地走，可以改成慢慢走
+- 「们」的用法
+
+
 
 [豌豆荚文案风格指南 (20140512 更新) - Google 文档](https://docs.google.com/document/d/1R8lMCPf6zCD5KEA8ekZ5knK77iw9J-vJ6vEopPemqZM/edit#)
 

@@ -26,3 +26,5 @@
 	+ [Pazzilivo/pazzilivo.github.com: My Blog](https://github.com/Pazzilivo/pazzilivo.github.com)
 - xiaolai.github.com
 	+ [xiaolai/xiaolai.github.com](https://github.com/xiaolai/xiaolai.github.com)
+- http://jasonlong.github.io/cayman-theme/
+	+ [jasonlong/cayman-theme: A responsive theme for GitHub Pages](https://github.com/jasonlong/cayman-theme)
