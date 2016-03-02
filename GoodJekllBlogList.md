@@ -1,10 +1,10 @@
-好 博客主题清单
+好·博客主题清单
 
 
 [Blogging Like a Hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)
 
 
-一下博客主题适用于 Jekyll  
+以下博客主题适用于 Jekyll  
 
 - tennc.github.io
 	- [tennc/tennc.github.io: The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages.](https://github.com/tennc/tennc.github.io)
@@ -28,3 +28,7 @@
 	+ [xiaolai/xiaolai.github.com](https://github.com/xiaolai/xiaolai.github.com)
 - http://jasonlong.github.io/cayman-theme/
 	+ [jasonlong/cayman-theme: A responsive theme for GitHub Pages](https://github.com/jasonlong/cayman-theme)
+- jglovier.github.io
+	+ [jglovier/jglovier.github.io: Source for joelglovier.com as of 10/2013. Built with Jekyll and hosted on GitHub Pages.](https://github.com/jglovier/jglovier.github.io)
+- http://hospitalrun.io/
+	+ [HospitalRun/hospitalrun.github.io: Informational site for the HospitalRun software. Powered by GitHub Pages and Jekyll.](https://github.com/HospitalRun/hospitalrun.github.io)
