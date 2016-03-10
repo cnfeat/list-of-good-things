@@ -1,5 +1,7 @@
 # GoodThings
 
+每个工具都带有用来创造它的那种精神。——海森堡《物理学与哲学》
+
 GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附之我的使用经验/故事/心得……
 
 - [好·博客清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodBlogList.md)

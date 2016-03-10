@@ -26,14 +26,17 @@ sublime + Markdown 是目前使用 Markdown 书写最佳体验组合。之前尝
 - Markdown Extended
 	+ 如在打开 md 文件时显示的颜色主题是 Markdown Light，你可以点击右下角来切换主题格式，切换默认主题可在格式列表的最顶，点击 「open all with current extensions as ……」点击你想要的格式即可。[在 Sublime 中配置 Markdown 环境 - Blog of 太极儒](http://frank19900731.github.io/blog/2015/04/13/zai-sublime-zhong-pei-zhi-markdown-huan-jing/)
 - MarkdownEditing
-- MarkdownEditing
+- 
+- SideBarFolders
 - MarkdownTOC
 - material-theme
 	+ 推荐 Markdown 颜色主题
 - SyncedSidebarBg
 	+ 可以将侧栏的背景颜色自动调节成与主题一致
 - SmartMarkdown
+- [WordCount - Packages - Package Control](https://packagecontrol.io/packages/WordCount)
 - [Sublime Text 2 and Markdown: Tips, Tricks, and Links – MacStories](https://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/)
+- [如何优雅地使用Sublime Text | 晚晴幽草轩](http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/)
 
 使用备注：
 
