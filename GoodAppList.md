@@ -4,8 +4,6 @@
 
 - [少数派 - 高质量应用推荐媒体](http://sspai.com/)
 
-
-
 # App 类
 
 ## Alfred
@@ -49,6 +47,7 @@ sublime + Markdown 是目前使用 Markdown 书写最佳体验组合。之前尝
 - 颜色主题
 	+ Material Theme 个人暂时最爱，无序列表有标记
 	+ Theme - itg.flat 小清新，无序列表无标记
+
 - SideBarFolders
 
 
