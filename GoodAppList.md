@@ -23,18 +23,39 @@ sublime + Markdown 是目前使用 Markdown 书写最佳体验组合。之前尝
 
 插件列表
 
+- 安装 Package Control
+	-[Installation - Package Control](https://packagecontrol.io/installation)
+- Package 安装 的方法
+	+ ⌘+⇧+P 进入 Package Control: Install Package 进行搜索安装
+	+ 手动下载好 Package 放置进 sublime Packages 目录
+		* Sublime -> Preference -> Browse Packages
+- MarkdownEditing
+	+ 可使用 Markdown 快捷键
+		* ⌘+⌥+V 插入链接
+		* ⌘+⇧+K 插入图片链接
+		* ⌘+⌥+B 加粗
+		* ⌘+^+1…6 快速插入标题
+		* ⌥+⇧+6 快速插入文档脚注（footnotes）
 - Markdown Extended
 	+ 如在打开 md 文件时显示的颜色主题是 Markdown Light，你可以点击右下角来切换主题格式，切换默认主题可在格式列表的最顶，点击 「open all with current extensions as ……」点击你想要的格式即可。[在 Sublime 中配置 Markdown 环境 - Blog of 太极儒](http://frank19900731.github.io/blog/2015/04/13/zai-sublime-zhong-pei-zhi-markdown-huan-jing/)
-- MarkdownEditing
-- 
+- Default File Type
+	+ 可设置默认新建文件是 md
+- Clickable URLs
+	+ 可显示页面中的链接
+- 预览插件 Markdown Preview
+	+ 手动在 Preferences -> Key Bindings User 配置预览快捷键
+	+ { "keys": ["alt+p"], "command": "markdown_preview", "args": { "target": "browser"} }
+	+ [sublime text 2 下的Markdown写作 - 简书](http://www.jianshu.com/p/378338f10263)
+- 颜色主题
+	+ Material Theme 个人暂时最爱，无序列表有标记
+	+ Theme - itg.flat 小清新，无序列表无标记
 - SideBarFolders
-- MarkdownTOC
-- material-theme
-	+ 推荐 Markdown 颜色主题
+
+
 - SyncedSidebarBg
 	+ 可以将侧栏的背景颜色自动调节成与主题一致
-- SmartMarkdown
 - [WordCount - Packages - Package Control](https://packagecontrol.io/packages/WordCount)
+	+ 可统计选定的字数
 - [Sublime Text 2 and Markdown: Tips, Tricks, and Links – MacStories](https://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/)
 - [如何优雅地使用Sublime Text | 晚晴幽草轩](http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/)
 
@@ -42,7 +63,7 @@ sublime + Markdown 是目前使用 Markdown 书写最佳体验组合。之前尝
 
 
 
-
+## 
 
 ## 1Password
 
@@ -137,5 +158,5 @@ http://pan.baidu.com/s/1hrddRKS
 ![](http://openmindclub.qiniudn.com/cnfeat/image/SogouInput.jpg?imageMogr2/thumbnail/400x)
 
 ![](http://openmindclub.qiniudn.com/cnfeat/image/WiInput.jpg?imageMogr2/thumbnail/400x)
-
+: 
 
