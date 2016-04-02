@@ -38,18 +38,18 @@
 	+ [emptymalei/emptymalei.github.io](https://github.com/emptymalei/emptymalei.github.io)
 - https://mdluo.github.io/
 	- [mdluo/mdluo.github.io](https://github.com/mdluo/mdluo.github.io)
-- vagarlee.github.io
+- https://vagarlee.github.io
 	+ [vagarlee/vagarlee.github.io](https://github.com/vagarlee/vagarlee.github.io)
-+ nicejade.github.io
++ https://nicejade.github.io
 	* [nicejade/nicejade.github.io: My Blog](https://github.com/nicejade/nicejade.github.io)
 - http://chibicode.com
 	+ [chibicode/chibicode.com](https://github.com/chibicode/chibicode.com)
-- ellekasai.com
+- https://ellekasai.com
 	+ [chibicode/ellekasai.com](https://github.com/chibicode/ellekasai.com)
 - http://rpg.chibicode.com/
 	+ [Main | 98129 RPG](http://rpg.chibicode.com/)
-- http://scribble.muan.co/
+- http://xiaoronglv.github.io
 	- [muan/scribble: A Jekyll theme.](https://github.com/muan/scribble)
 	- [xiaoronglv/xiaoronglv.github.io](https://github.com/xiaoronglv/xiaoronglv.github.io)
-- http://shruby.org/
+- http://shruby.github.io
 	+ [shruby/shruby.github.io: Shanghai Ruby User Group](https://github.com/shruby/shruby.github.io)
