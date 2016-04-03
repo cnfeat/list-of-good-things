@@ -87,6 +87,7 @@
 ★★★★☆ | 王佩|[白板报 ](http://www.baibanbao.net/)|#
 ★★★★☆ | 比目鱼|[比目鱼博客](http://www.bimuyu.com/blog/)|#
 ★★★★☆ | 道哥|[道哥的黑板报](http://www1.taosay.net/)|#
+★★★★☆ | 赖智华|[小赖子的英国生活和资讯](https://justyy.com)|#
 OPC| #|#|#
 ★★★★☆ | 安猪|[安猪](http://anzhu.net/)|OPC
 ★★★★☆ | 阳志平|[阳志平的网志](http://www.yangzhiping.com)|OPC
