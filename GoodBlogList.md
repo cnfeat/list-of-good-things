@@ -63,7 +63,6 @@
 ★★★★☆ | 薛兆丰 |[新制度主义时代](http://xuezhaofeng.com/)|#
 ★★★★☆ | 编程随想|[编程随想的博客](https://program-think.blogspot.com/)|#
 ★★★★☆ | 傅真|[最好金龟换酒](http://fz0512.com/)|#
-★★★★☆ | 魏武挥|[扯氮集 ](http://weiwuhui.com/)|#
 ★★★★☆ | 徐贲|[徐贲](http://blog.sina.com.cn/xubenblog)|#
 ★★★★☆ | 严杰夫|[多余的话](http://jeffyanguang.blog.163.com/)|#
 ★★★★☆ | 李参|[李参](http://www.lishen.me/)|#
