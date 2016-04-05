@@ -29,7 +29,7 @@
 ★★★★☆ | 刘未鹏|[Mind Hacks](http://mindhacks.cn)|#
 ★★★★☆ | 阮一峰|[乱象，印迹](http://www.ruanyifeng.com/blog/)|#
 ★★★★☆ | 萧秋水|[逍遥游](http://www.xiaoqiushui.com)|#
-★★★★☆ | 冯大辉|[DBA Notes](http://www.xiaoqiushui.com)|#
+★★★★☆ | 冯大辉|[DBA Notes](http://dbanotes.net/)|#
 ★★★★☆ | Meditic|[Startup Game](http://meditic.com)|#
 ★★★★☆ | 同人于野|[学而时嘻之](http://www.geekonomics10000.com)|#
 ★★★★☆ | 苏杰|[人人都是产品经理](http://iamsujie.com)|#
