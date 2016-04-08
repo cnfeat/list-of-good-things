@@ -56,6 +56,12 @@
 - 颜色主题
 	+ Material Theme 个人暂时最爱，无序列表有标记
 	+ Theme - itg.flat 小清新，无序列表无标记
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> origin/master
 - SideBarFolders
 - SyncedSidebarBg
 	+ 可以将侧栏的背景颜色自动调节成与主题一致
@@ -67,16 +73,18 @@
 - [如何优雅地使用Sublime Text | 晚晴幽草轩](http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/)
 - [近乎完美的 Markdown 写作体验 - Sublime Text 3 + OmniMarkupPreviewer](http://macplay.leanote.com/post/%E8%BF%91%E4%B9%8E%E5%AE%8C%E7%BE%8E%E7%9A%84-Markdown-%E5%86%99%E4%BD%9C%E4%BD%93%E9%AA%8C-Sublime-Text-3-OmniMarkupPreviewer)
 
+<<<<<<< HEAD
 
 
+=======
+## Manico
+>>>>>>> origin/master
 
-## 
+- [简洁、高效、易用，Mac App 快速启动及切换工具：Manico 2.0 - 少数派](http://sspai.com/32457)
+- 备用：[Snap：在 Mac App Store 上的内容](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)
+	+ [mac软件之Snap-设置键盘快捷键来启动苹果电脑上软件 | 苹果男](http://www.pgnan.com/2194.html)
 
-## 1Password
 
-## Evernote
-
-## MPlayerX
 
 
 ## PopClip
@@ -97,21 +105,13 @@
 - [没那么简单：PopClip for Mac - 少数派](http://sspai.com/25483)
 
 
-
-
-
-
-## [Monosnap 截图良心工具](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12&ls=1)
+## [Monosnap ](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12&ls=1)
 
 截图良心工具
 
+
 - 可自定义命名
 - 后期调整，一应俱全
-
-
-
-# 系统增强
-
 
 ## 鼠须管输入法
 
@@ -152,8 +152,6 @@ http://pan.baidu.com/s/1hrddRKS
 - [加强你的「一指禅」：Mac OS X QuickLook 兼容性扩展教程 - 少数派](http://sspai.com/31927)
 	- [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- 已使用 [QLMarkdown](https://github.com/toland/qlmarkdown) 和 [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
-
-
 
 
 # iOS
