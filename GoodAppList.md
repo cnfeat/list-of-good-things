@@ -11,7 +11,7 @@
 - [5 款提高文件处理效率的 Alfred 扩展 - 少数派](http://sspai.com/32680)
 	+ 已使用 [NewFile | Packal](http://www.packal.org/workflow/newfile) 和 [TerminalFinder | Packal](http://www.packal.org/workflow/terminalfinder)
 
-## sublime 
+## Sublime 
 
 用过 
 
