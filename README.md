@@ -24,6 +24,14 @@ via [我的工具 | Accentuate the Positive](http://www.tonyyet.com/tools)
 
 最后，如果你觉得好，请点个星表示鼓励，我会挺开心的。
 
+----
+
+技术远远比教程快，如此列出工具，还不如教人磨练工具、猎寻工具和创造工具。
+
+希望元认知通讯能解决这个问题。
+
+——陈素封 2016-05-07 
+
 
 ----
-此外，我开通了 元认知学习通讯，里面有我学习元认知的一切资料， 你可以点击 [存档](http://tinyletter.com/cnfeat/archive) 和 [备份博客](mesule.com) 查阅所有通讯，点击 [这里](http://tinyletter.com/cnfeat) 用邮件订阅或点击  [这里](http://mesule.com/) 用 RSS 订阅。此外，我还有 [博客](cnfeat.com) 和 [公众号](http://t.cn/RGaif2N)。
+元认知学习通讯有我学习元认知的一切资料， 你可以点击 [存档](http://tinyletter.com/cnfeat/archive) 和 [备份博客](mesule.com) 查阅所有通讯，点击 [这里](http://tinyletter.com/cnfeat) 用邮件订阅或点击  [这里](http://mesule.com/) 用 RSS 订阅。此外，我还有 [博客](cnfeat.com) 和 [公众号](http://t.cn/RGaif2N)。

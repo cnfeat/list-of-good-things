@@ -10,6 +10,14 @@
 
 - [5 款提高文件处理效率的 Alfred 扩展 - 少数派](http://sspai.com/32680)
 	+ 已使用 [NewFile | Packal](http://www.packal.org/workflow/newfile) 和 [TerminalFinder | Packal](http://www.packal.org/workflow/terminalfinder)
+- 注意开通粘贴板功能
+	- 一句话点评其他粘贴板工具
+		* Paste（太慢）
+		* CopyClip（太慢）
+		* ClipMenu（占内存）
+		* Pin（体验差）
+		
+![](http://openmindclub.qiniudn.com/omt/AlfredClipboardSetting.jpg)
 
 ## Sublime 
 
