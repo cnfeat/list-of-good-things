@@ -1,10 +1,8 @@
-/*
+/*说明:
 
-说明:
+如需自定义，可在 [微信编辑器_i排版](http://www.ipaiban.com/) 或 [新榜编辑器](http://edit.newrank.cn/)先做样式+预览效果，然后提取相应 HTML 代码，替换此 CSS 的样式
 
-可在 http://www.ipaiban.com/ 先做样式+预览效果，然后提取 HTML 代码，直接粘贴在 Markdown Here 相对应的「基本渲染 CSS」中。
-
-## 微信排最优雅的设置
+## 微信排版的优雅设置
 
 ### 正文设置
 
@@ -13,6 +11,7 @@
 - 行距(line-height)：1.75 倍
 - 左右段落距（padding-right/left）：0.7 毫米
 - 上下段落距(padding-top/bottom)：0.5 毫米
+- 颜色color：#595959
 
 ### 标题设置
 
@@ -22,31 +21,32 @@
 - 三级标题(h3) 17字号、加粗 
 - 四级标题(h4) 16字号、加粗 
 - 五级标题用于摘要和介绍(h5)：14字号
-- 六级标题用于标注相关文章(h6)：16字号、加粗、有 80px 黑色横条
+- 六级标题用于标注相关文章(h6)：16字号、加粗、有 120 px 黑色横条，可容纳 6 个以内文字
 
 ### 无/有序行距
 
 - 无/有序行距(li/margin)：0.5毫米
+- 颜色color：#595959
 
 ### 优秀排版示范
 
-- 
+- 待补增
 
 
 ### 注意事项：
 
-- 请在纯文本状态下编辑文字。原因是纯文本转化成富文本，已保存的格式会消失。这不是 Markdown Here 的 Bug 而是Markdown Here 本身的设定，为何如此设定？我也不知道。
+- 请在纯文本状态下编辑文字，在已转化的文本下再编辑会造成格式错乱。
+	+ 这不是 Markdown Here 的 Bug 而是 Markdown Here 本身的设定
+	+ 为何如此设定？我也不知道。
 
 ### 参考链接：
 
 - [Markdown Here](http://markdown-here.com/get.html)
-- [微信公众号运营与排版白皮书 - GitBook](https://www.gitbook.com/book/irvinx/wechat/details)
-- [微信编辑器简直是弱爆了，看我用 Markdown Here！ - 思想的天空](https://astrianzheng.cn/14618924663076.html)
 - [你知道吗，在印象笔记里也能用 Markdown 写作 - Matrix](http://matrix.sspai.com/p/b768d1e0)
 
 ### Changlog
 
-- 陈素封 2016-05-08 创建
+- 2016-05-08 陈素封创建
 
 */ 
 
@@ -66,7 +66,7 @@ table, pre, dl, blockquote, q, ul, ol { margin: 1.2em 0; }
 
 ul, ol { padding-left: 2em; }
 
-li { margin: 0.5em 0; font-size: 16px; /*无序和有序的行距*/ }
+li { margin: 0.5em 0; font-size: 16px; color: #595959; /*无序和有序的行距*/ }
 
 /* Space paragraphs in a list the same as the list itself. / li p { / Needs !important to override rule above. */ margin: 0.5em 0 !important; }
 
@@ -78,11 +78,11 @@ li { margin: 0.5em 0; font-size: 16px; /*无序和有序的行距*/ }
 
 /* Use Roman numerals for sub-sub-ordered lists. (Like Github.) */ ul ul ol, ul ol ol, ol ul ol, ol ol ol { list-style-type: lower-alpha; }
 
-dl { padding: 0; }
+dl { padding: 0; color: #595959; }
 
-dl dt { font-size: 1em; font-weight: bold; font-style: italic; }
+dl dt { font-size: 1em; color: #595959; font-style: italic; }
 
-dl dd { margin: 0 0 1em; padding: 0 1em; }
+dl dd { margin: 0 0 1em; padding: 0 1em; color: #595959; }
 
 blockquote, q { border-left: 4px solid #DDD; padding: 0 1em; color: #777; quotes: none; }
 
@@ -100,7 +100,7 @@ h4 { font-size: 16px; padding-right: 0.5em; padding-left: 0.5em; }
 
 h5 { font-size: 14px; padding-top: 15px; padding-right: 15px; padding-bottom: 15px; padding-left: 15px; box-shadow: rgb(170, 170, 170) 0px 0px 3px; color: #777; font-weight: 400; line-height: 1.75em; }
 
-h6 { font-size: 16px; padding-right: 0.5em; padding-left: 0.5em; border-bottom: 2px solid rgb(42, 52, 58); width: 80px}
+h6 { font-size: 16px; padding-right: 0.5em; padding-left: 0.5em; border-bottom: 2px solid rgb(42, 52, 58); width: 120px}
 
 table { padding: 0; border-collapse: collapse; border-spacing: 0; font-size: 1em; font: inherit; border: 0; }
 
@@ -114,4 +114,4 @@ table tr th, table tr td { font-size: 1em; border: 1px solid #CCC; margin: 0; pa
 
 table tr th { font-weight: bold; background-color: #F0F0F0; }
 
-p { font-size: 16px; line-height: 1.75em; padding-top: 0.5em; padding-bottom: 0.5em; padding-right: 0.7em; padding-left: 0.7em; }；
+p { font-size: 16px; color: #595959; line-height: 1.75em; padding-top: 0.5em; padding-bottom: 0.5em; padding-right: 0.7em; padding-left: 0.7em; }；
