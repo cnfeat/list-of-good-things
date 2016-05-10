@@ -30,7 +30,7 @@
 
 ### 优秀排版示范
 
-- 待补增
+- [可能吧](http://t.cn/Rqme3af)
 
 
 ### 注意事项：
@@ -84,7 +84,7 @@ dl dt { font-size: 1em; color: #595959; font-style: italic; }
 
 dl dd { margin: 0 0 1em; padding: 0 1em; color: #595959; }
 
-blockquote, q { border-left: 4px solid #DDD; padding: 0 1em; color: #777; quotes: none; }
+blockquote, q { border-left: 4px solid #DDD; padding: 0 1em; color: #585858; quotes: none; }
 
 blockquote::before, blockquote::after, q::before, q::after { content: none; }
 
