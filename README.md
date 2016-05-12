@@ -6,7 +6,7 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 - [好·博客清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodBlogList.md)
 - [好·字体清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodFontList.md)
-- [好·博客主题清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodJekllBlogList.md)
+- [好·博客主题清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodJekyllBlogList.md)
 - 其他的陆续更新中，你可以一个个点开看
 
 关于如何选择工具，不妨参考科幻小说作家 Bruce Sterling 的清单：

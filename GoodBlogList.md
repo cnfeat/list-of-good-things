@@ -27,7 +27,7 @@
 ★★★★☆ | 傅国涌|[笔底波澜](http://blog.sina.com.cn/fuguoyong)|#
 ★★★★☆ | Yurii|[乱象，印迹](http://www.luanxiang.org/blog)|#
 ★★★★☆ | 刘未鹏|[Mind Hacks](http://mindhacks.cn)|#
-★★★★☆ | 阮一峰|[乱象，印迹](http://www.ruanyifeng.com/blog/)|#
+★★★★☆ | 阮一峰|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)|#
 ★★★★☆ | 萧秋水|[逍遥游](http://www.xiaoqiushui.com)|#
 ★★★★☆ | 冯大辉|[DBA Notes](http://dbanotes.net/)|#
 ★★★★☆ | Meditic|[Startup Game](http://meditic.com)|#
