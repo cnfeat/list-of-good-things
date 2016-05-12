@@ -6,6 +6,9 @@
 
 以下博客主题适用于 Jekyll  
 
+
+[Jekyll Themes](http://jekyllthemes.org/)
+
 - http://tennc.github.io
 	- [tennc/tennc.github.io](https://github.com/tennc/tennc.github.io)
 - http://mesule.com
@@ -53,3 +56,7 @@
 	- [xiaoronglv/xiaoronglv.github.io](https://github.com/xiaoronglv/xiaoronglv.github.io)
 - http://shruby.github.io
 	+ [shruby/shruby.github.io: Shanghai Ruby User Group](https://github.com/shruby/shruby.github.io)
+- http://sneezry.github.com
+	+ [Sneezry/sneezry.github.com: Blog](https://github.com/Sneezry/sneezry.github.com)
+- http://blog.jekyllwriter.com/
+	+ [JekyllWriter/blog](https://github.com/JekyllWriter/blog)
