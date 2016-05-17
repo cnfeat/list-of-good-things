@@ -44,6 +44,7 @@
 ★★★★☆ | 易仁永澄|[知行在路上](http://blog.hiddenwangcc.com)|#
 ★★★★☆ | 狗熊|[狗熊有话说](http://www.iclubkm.com/bearbigpodcast)|#
 ★★★★☆ | 宋春林|[北河以北](http://songchunlin.net)|#
+★★★★☆ | 小赖子|[小赖子的英国生活和资讯](https://justyy.com/)|#
 ★★★★☆ | 黄集伟|[孤岛客](http://www.huangjiwei.com/blog)|#
 ★★★★☆ | 小强|[小强的时间管理博客](http://www.gtdlife.com)|#
 ★★★★☆ | 王俊煜|[猫窝](http://blog.wangjunyu.net/)|#

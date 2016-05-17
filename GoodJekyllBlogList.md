@@ -60,3 +60,5 @@
 	+ [Sneezry/sneezry.github.com: Blog](https://github.com/Sneezry/sneezry.github.com)
 - http://blog.jekyllwriter.com/
 	+ [JekyllWriter/blog](https://github.com/JekyllWriter/blog)
+- http://ShuangFarmer.github.io
+	+ [ShuangFarmer/ShuangFarmer.github.io: 一亩田](https://github.com/ShuangFarmer/ShuangFarmer.github.io)
