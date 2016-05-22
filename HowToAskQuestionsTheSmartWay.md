@@ -664,5 +664,3 @@ Mikhail Ramendik贡献了一些特别有价值的建议和改进意见。
 ## 我们若能更妥善地搜寻资料，实在已经改变世界。
 
 
-![](http://pic.yupoo.com/vankos_v/DKocUZTZ/y8IhV.png)
-
