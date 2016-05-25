@@ -6,9 +6,13 @@
 
 以下博客主题适用于 Jekyll  
 
+站点：
 
-[Jekyll Themes](http://jekyllthemes.org/)
+- [jekyllthemes](http://jekyllthemes.org/)
+- [jekyllrc](http://themes.jekyllrc.org/)
 
+- [ Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/about/)
+	- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
 - http://tennc.github.io
 	- [tennc/tennc.github.io](https://github.com/tennc/tennc.github.io)
 - http://mesule.com
