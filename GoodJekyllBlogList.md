@@ -66,3 +66,7 @@
 	+ [JekyllWriter/blog](https://github.com/JekyllWriter/blog)
 - http://ShuangFarmer.github.io
 	+ [ShuangFarmer/ShuangFarmer.github.io: 一亩田](https://github.com/ShuangFarmer/ShuangFarmer.github.io)
+- http://www.haojianzong.com
+	+ [haojianzong/haojianzong.github.io: My jekyll blog](https://anrenmind.slack.com/messages/omc_writer002/)
+- https://4679.github.io
+	+ [4679/4679.github.io](https://github.com/4679/4679.github.io)

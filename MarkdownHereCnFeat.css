@@ -50,7 +50,7 @@
 
 */ 
 
-pre { font-size: 1em; line-height: 1.2em; }
+pre { font-size: 1em; line-height: 1.2em; font-size: 14px; color: #595959; padding-top: 0.5em; padding-bottom: 0.5em; padding-right: 0.7em; padding-left: 0.7em;}
 
 pre code { white-space: pre; overflow: auto; }
 
