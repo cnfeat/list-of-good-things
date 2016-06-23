@@ -19,7 +19,7 @@
 使用方法：在阅读器导入即可
 
 
-PS.如果你正在用 inoreader 可以直接登录后，点击[好物·100个阅阅源](http://www.inoreader.com/bundle/0014cd6377f1) 订阅整个组合包。
+PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个订阅源](http://www.inoreader.com/bundle/0014cd6377f1) 订阅整个组合包。
 
 ## 好·博客列表
 
