@@ -25,18 +25,22 @@ Dock 显示隐藏缓慢的原因，是因为 OS X 隐藏和显示 Dock 的动画
 * 6 松开这些按键。 
 * 重置 NVRAM 后，您可能需要重新配置扬声器音量、屏幕分辨率、启动磁盘选择和时区信息设置。
 
+## 七牛云图床
+
+- [如何使用七牛云做为图床？ - 读立写生](http://cnfeat.com/blog/2015/11/30/cli-qiniu/)
+- [使用Dropzone和七牛云存储来优化博客图床 | 闫肃的博客](http://yansu.org/2015/01/10/use-dropzone-and-qiniu-to-store-blog-images.html)
+- [MWeb 1.9.3 发布！图床支持七牛、修正发布到 Wordpress https 问题、中文版不能发布到 Medium 问题等 - MWeb](http://zh.mweb.im/mweb-1.9.3-release.html)
+
+## QuickLook
+
+- [加强你的「一指禅」：Mac OS X QuickLook 兼容性扩展教程 - 少数派](http://sspai.com/31927)
+	- [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
+	- 已使用 [QLMarkdown](https://github.com/toland/qlmarkdown) 和 [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
 
 
-## iOS
+## Mac/iOS 网站
 
-「iPhone存储空间不足解决办法」
-
-1.系统必须为最新，即iOS9.3。
-2.进入iTunes store选择一部大于机身剩余容量的电影下载，系统会提示内存不足，点设置查看容量。
-3.重复几次。
-4.我的手机本来剩余1.6g，操作几次后剩余4.3g。
+- [少数派 - 高质量应用推荐媒体](http://sspai.com/)
 
 
-## 微信
 
-[[好文回顾] 原来微信可以变得如此纯净，你知道吗？| 有用功](http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2650490831&idx=2&sn=0d12425c93665efc9c99d5c49ce1b087&scene=0#rd)
