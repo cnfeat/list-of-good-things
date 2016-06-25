@@ -14,7 +14,7 @@
 
 
 
-## 高效 iPhone App 桌面图标设置
+##  iPhone App 桌面图标设置
 
 ~终极大法：按需安装，用完就删。
 ~需要：稳定的网络、足够的流量和极度洁癖
@@ -26,9 +26,8 @@
 
 ### 效果演示
 
-![](http://openmindclub.qiniudn.com/omt/iPhoneScr01.jpg)
+![](http://openmindclub.qiniudn.com/omt/iPhoneScr03.jpg)
 
-![](http://openmindclub.qiniudn.com/omt/iPhoneScr02.jpg)
 
 ### 整体设置
 
@@ -45,7 +44,6 @@
 
 - docker 放最常用的四个 App
 - 没有 folder
-- 
 
 第二页：分类 List
 
@@ -59,6 +57,7 @@
 
 -End-
 
+原文地址：http://t.cn/R5ljgYD
 
 
 ## Changelog
