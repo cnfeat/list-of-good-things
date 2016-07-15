@@ -28,11 +28,23 @@
 ### 安装插件方法
 
 - 安装 Package Control
-	-[Installation - Package Control](https://packagecontrol.io/installation)
+	-[Installation Package Control](https://packagecontrol.io/installation)
 - Package 安装 的方法
 	+ ⌘+⇧+P 进入 Package Control: Install Package 进行搜索安装
 	+ 手动下载好 Package 放置进 sublime Packages 目录
 		* Sublime -> Preference -> Browse Packages
+
+### 使用技巧 Folding Selected Text
+
+This is probably what you came here looking for. you want to select a few lines of text and fold them out of the way. Easy!
+
+Select the text you want to fold and hit Command + Option + [. You’ll now see you have a little icon indicating you have folded some code.
+
+![](http://wesbos.com/wp-content/uploads/2011/10/Screen-Shot-2011-10-03-at-5.32.13-PM.png)
+
+To unfold your code, hit the opposite Command + Option + ].
+
+[Sublime Text 2 Code Folding | Wes Bos](http://wesbos.com/sublime-text-code-folding/)
 
 ### 插件列表 
 
@@ -45,6 +57,11 @@
 		* ⌥+⇧+6 快速插入文档脚注（footnotes）
 - Markdown Extended
 	+ 如在打开 md 文件时显示的颜色主题是 Markdown Light，你可以点击右下角来切换主题格式，切换默认主题可在格式列表的最顶，点击 「open all with current extensions as ……」点击你想要的格式即可。[在 Sublime 中配置 Markdown 环境 - Blog of 太极儒](http://frank19900731.github.io/blog/2015/04/13/zai-sublime-zhong-pei-zhi-markdown-huan-jing/)
+- SmartMarkdown
+	+ 折叠标题：在任意标题处按 Tab 会折叠内容，重按 Tab 展开内容
+	+ 折叠全部标题：Shift+Tab 按下，折叠全部标题
+	+ 使用技巧，在任意标题 Shift+Tab 再在大标题处按 Tab，文章大纲就出来了。
+	+ 更多使用技巧：[demon386/SmartMarkdown: A plugin for facilitating editing markdown in Sublime Text 2. Features are borrowed from Org mode of Emacs.](https://github.com/demon386/SmartMarkdown)
 - Default File Type
 	+ 可设置默认新建文件是 md
 - Clickable URLs
@@ -67,7 +84,7 @@
 
 - [如何优雅地使用Sublime Text | 晚晴幽草轩](http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/)
 - [近乎完美的 Markdown 写作体验 - Sublime Text 3 + OmniMarkupPreviewer](http://macplay.leanote.com/post/%E8%BF%91%E4%B9%8E%E5%AE%8C%E7%BE%8E%E7%9A%84-Markdown-%E5%86%99%E4%BD%9C%E4%BD%93%E9%AA%8C-Sublime-Text-3-OmniMarkupPreviewer)
-
+- [Sublime Text 2 and Markdown: Tips, Tricks, and Links – MacStories](https://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/)
 
 
 
@@ -146,7 +163,6 @@ http://pan.baidu.com/s/1hrddRKS
 	- [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- 已使用 [QLMarkdown](https://github.com/toland/qlmarkdown) 和 [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
 
+## Changelog
 
-# iOS
-
-## 空
+- 20160715 补增 sublime SmartMarkdown
