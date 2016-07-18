@@ -70,3 +70,9 @@
 	+ [haojianzong/haojianzong.github.io: My jekyll blog](https://anrenmind.slack.com/messages/omc_writer002/)
 - https://4679.github.io
 	+ [4679/4679.github.io](https://github.com/4679/4679.github.io)
+- https://blog.tankywoo.com/
+	+ [tankywoo/blog.tankywoo.com: My Blog](https://github.com/tankywoo/blog.tankywoo.com)
+- http://blog.fooleap.org/
+	+ [fooleap/fooleap.github.io: new blog](https://github.com/fooleap/fooleap.github.io)
+- http://runfastlynda.com/
+	+ 

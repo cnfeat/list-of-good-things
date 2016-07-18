@@ -47,7 +47,7 @@
 
 第二页：分类 List
 
-- 都是 folder，每个 folder 只放 98 个 App
+- 都是 folder，每个 folder 只放 8 个 App
 	+ 原因：8 个能显示 folder 所有 App，长按时 folder 时抖动时，App 也不会消失
 - 将 Apple 自带且不常用的 App 全部放在名为 Apple 的文件夹，放置在第二页
 
@@ -57,11 +57,12 @@
 
 -End-
 
-原文地址：http://t.cn/R5ljgYD
+原文地址：https://github.com/cnfeat/GoodThingList
 
 
 ## Changelog
 
 - 2016-06-25 补增 iPhone 桌面设置
+- 2016-07-18 小修改
 
 
