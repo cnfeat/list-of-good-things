@@ -74,5 +74,16 @@
 	+ [tankywoo/blog.tankywoo.com: My Blog](https://github.com/tankywoo/blog.tankywoo.com)
 - http://blog.fooleap.org/
 	+ [fooleap/fooleap.github.io: new blog](https://github.com/fooleap/fooleap.github.io)
-- http://runfastlynda.com/
-	+ 
+- http://wjp2013.github.io/
+	+ [wjp2013/wjp2013.github.io: 个人技术博客](https://github.com/wjp2013/wjp2013.github.io)
+- http://materliu.github.io/
+	+ [materliu/materliu.github.io: my personal github pages!](https://github.com/materliu/materliu.github.io)
+
+
+
+Good
+
+- http://yansu.org/
+	+ [suyan/suyan.github.io: My Blog.](https://github.com/suyan/suyan.github.io)
+- http://peiwen.lu/
+	+ [P233/P233.github.io](https://github.com/P233/P233.github.io)
