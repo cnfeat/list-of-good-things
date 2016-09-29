@@ -107,13 +107,15 @@ To unfold your code, hit the opposite Command + Option + ].
 	+ Command (⌘) 划选后恢复成无序列表
 - WebMarkdown
 	+ 划选网页的文字，转换成 Markdown 格式并自动复制
+- 新浪短链接 URLShortener
+	+ [PopClip-Extensions/Downloads at master · hzlzh/PopClip-Extensions](https://github.com/hzlzh/PopClip-Extensions/tree/master/Downloads)
 
 参考 Markdown 用户插件清单下载 [Brett's PopClip Extensions](https://github.com/ttscoff/popclipextensions)
 
 
 - 官方[PopClip Extensions](https://pilotmoon.com/popclip/extensions/) 
 - [没那么简单：PopClip for Mac - 少数派](http://sspai.com/25483)
-
+- [hzlzh/PopClip-Extensions: Make your PopClip more powerful.](https://github.com/hzlzh/PopClip-Extensions)
 
 ## [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12&ls=1)
 

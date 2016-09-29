@@ -1,11 +1,11 @@
 /*说明:
 
-## 微信排版的优雅设置
+~ 参考 B座12楼 与 可能吧 公众号制作
 
 ### 正文设置
 
 - 在「P」字段设置
-- 正文字号：16
+- 正文字号：15
 - 行距(line-height)：1.75倍
 - 左右段落距（padding-right/left）：0.7 毫米
 - 上下段落距(padding-top/bottom)：0.5 毫米
@@ -14,25 +14,22 @@
 
 ### 引用字体
 
-- 颜色color：#888
+- 颜色color：rgb(136, 136, 136)
 
 ### 标题设置
 
 - 在「h」字段设置
-- 大标题(h1)：24字号、加粗、有 95% 黑色横条 
-- 二级标题(h2)：18字号、加粗、有 75% 黑色横条
-- 三级标题(h3) 17字号、加粗 
-- 四级标题(h4) 14字号、加粗 
-- 五级标题用于摘要和介绍(h5)：14字号
-- 六级标题用于标注相关文章(h6)：17字号、加粗、有 120 px 黑色横条，可容纳 6 个以内文字
+- 大标题(h1)：20 字号、加粗、置中、蓝色：基本不用
+- 二级标题(h2)：18 字号、加粗、置中：常用，分组块用
+- 三级标题(h3) 17 字号、加粗：偶尔用，做小标题
+- 四级标题(h4) 15 字号、加粗，有颜色：画重点用
+- 五级标题(h5) 14 字号、灰色：用于摘要和介绍
+- 六级标题(h6) 15 字号、底线黑色横条：用于标注相关文章，可容纳 6 个以内文字
 
 ### 无/有序行距
 
 - 无/有序行距(li/margin)：0.5毫米
 - 颜色color：#3e3e3e
-
-### 优秀排版示范
-
 
 
 ### 注意事项：
@@ -57,6 +54,7 @@ h2 {
 
 ### Changlog
 
+- 2016-09-09 修订为小清新版
 - 2016-07-25 调整正文字体为16号，修正部分错误
 - 2016-06-23 调整正文字体为16号，正文行距为1.75
 - 2016-05-08 陈素封创建
@@ -88,15 +86,15 @@ ul, ol {
 }
 
 li {
-	margin: 0.5em 0;
-	font-size: 16px;
+	margin: 0.3em 0;
+	font-size: 15px;
 	color: #3e3e3e;
  /*无序和有序的行距*/
 }
 
 ul ul, ul ol, ol ul, ol ol {
 	margin: 0;
-	padding-left: 1em;
+	padding-left: 1.2em;
 }
 
 ul ul, ul, ul {
@@ -134,6 +132,9 @@ blockquote, q {
 	padding: 0 1em;
 	color: #888!important;
 	quotes: none!important;
+	padding-right: 1.2em;
+	padding-left: 1.2em;
+	 /*引用*/
 }
 
 blockquote::before, blockquote::after, q::before, q::after {
@@ -147,64 +148,32 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-size: 24px;
-	min-height: 32px;
-	line-height: 30px;
-	border-bottom: solid 1px #000000;
-	color: rgb(0, 0, 0);
-	display: inline-block;
-	border-bottom-width: 3px;
-	border-bottom-style: solid;
-	border-color: rgb(51, 51, 51);
-	padding-top: 5px;
-	padding-right: 0.5em;
-	padding-left: 0.5em;
-	margin-bottom: -3px;
-	margin: 1em auto;
-	padding: 0.5em 0;
+	font-size: 20px;
+	color: rgb(73, 200, 149);
+	padding-right: 1.2em;
+	padding-left: 1.2em;
 	text-align: center;
-	width: 95%;
-	font-weight: normal;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
 }
 
 h2 {
-	font-size: 20px;
-	min-height: 32px;
-	line-height: 28px;
-	border-bottom: solid 1px #000000;
-	color: rgb(0, 0, 0);
-	display: inline-block;
-	border-bottom-width: 3px;
-	border-bottom-style: solid;
-	border-color: rgb(51, 51, 51);
-	padding-top: 5px;
-	padding-right: 0.5em;
-	padding-left: 0.5em;
-	margin-bottom: -3px;
-	margin: 1em auto;
-	padding: 0.5em 0;
+	font-size: 18px;
+	color: rgb(73, 200, 149);
+	padding-right: 1.2em;
+	padding-left: 1.2em;
 	text-align: center;
-	width: 75%;
-	font-weight: normal;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
 }
 
 h3 {
-	font-size: 18.5px;
-	padding-right: 0.5em;
-	padding-left: 0.5em;
+	font-size: 16px;
+	padding-right: 1.2em;
+	padding-left: 1.2em;
 }
 
 h4 {
-	font-size: 14px;
-	font-weight: normal;
-	padding-right: 0.5em;
-	padding-left: 0.5em;
+	font-size: 15px;
+	color: rgb(73, 200, 149);
+	padding-right: 1.2em;
+	padding-left: 1.2em;
 }
 
 h5 {
@@ -220,9 +189,9 @@ h5 {
 }
 
 h6 {
-	font-size: 16px;
-	padding-right: 0.5em;
-	padding-left: 0.5em;
+	font-size: 15px;
+	padding-right: 1.2em;
+	padding-left: 1.2em;
 	border-bottom: 2px solid rgb(42, 52, 58);
 	width: 120px
 }
@@ -267,10 +236,10 @@ table tr th {
 }
 
 p {
-	font-size: 16px;
+	font-size: 15px;
 	line-height: 1.75em;
 	padding-top: 0.5em;
 	padding-bottom: 0.5em;
-	padding-right: 0.7em;
-	padding-left: 0.7em;
+	padding-right: 1.2em;
+	padding-left: 1.2em;
 }；

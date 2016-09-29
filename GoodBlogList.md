@@ -180,7 +180,7 @@ OPC| #|#|#
 ★★★★☆ | joey|[老鹰说](http://weixin.sogou.com/gzh?openid=oIWsFtwpx4WaL2AzuAe1OmSHfB5Q&ext=3Q58_wfJO1_UpM45fU9gqc50y16N5MujHVkhbwSgWuinqZqc5GyIcwGJgRqcxw58)|#
 ★★★★☆ | 待补增|[待补增](http://www.cnfeat.com)|#
 
-
+- [30个值得推荐的文化、读书类微信公众号](http://www.bimuyu.com/blog/archives/304356869.shtml)
 
 ## 参考文章
 
