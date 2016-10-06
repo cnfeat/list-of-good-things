@@ -1,12 +1,12 @@
 /*说明:
 
-## 微信排版的优雅设置
+## 独立写生御用 微信排版格式
 
 ### 正文设置
 
 - 在「P」字段设置
-- 正文字号：16
-- 行距(line-height)：1.75倍
+- 正文字号：17
+- 行距(line-height)：2 倍
 - 左右段落距（padding-right/left）：0.7 毫米
 - 上下段落距(padding-top/bottom)：0.5 毫米
 - 颜色color：#3e3e3e
@@ -31,9 +31,6 @@
 - 无/有序行距(li/margin)：0.5毫米
 - 颜色color：#3e3e3e
 
-### 优秀排版示范
-
-
 
 ### 注意事项：
 
@@ -57,6 +54,8 @@ h2 {
 
 ### Changlog
 
+
+- 2016-10-02 修订为 读立写生 御用版式
 - 2016-07-25 调整正文字体为16号，修正部分错误
 - 2016-06-23 调整正文字体为16号，正文行距为1.75
 - 2016-05-08 陈素封创建
@@ -85,11 +84,14 @@ table, pre, dl, blockquote, q, ul, ol {
 
 ul, ol {
 	padding-left: 2em;
+	line-height: 1.5em;
+	padding-right: 2em;
 }
 
 li {
 	margin: 0.5em 0;
-	font-size: 16px;
+	line-height: 1.5em;
+	font-size: 17px;
 	color: #3e3e3e;
  /*无序和有序的行距*/
 }
@@ -131,9 +133,12 @@ dl dd {
 
 blockquote, q {
 	border-left: 4px solid #888;
-	padding: 0 1em;
+	padding: 0 0.5em;
 	color: #888!important;
 	quotes: none!important;
+	padding-right: 0.2em;
+	padding-left: 0.5em;
+	margin: 0.5em;
 }
 
 blockquote::before, blockquote::after, q::before, q::after {
@@ -174,12 +179,12 @@ h2 {
 	font-size: 20px;
 	min-height: 32px;
 	line-height: 28px;
-	border-bottom: solid 1px #000000;
+	border-bottom: solid 1px rgb(0, 0, 0);
 	color: rgb(0, 0, 0);
 	display: inline-block;
 	border-bottom-width: 3px;
 	border-bottom-style: solid;
-	border-color: rgb(51, 51, 51);
+	border-color: rgb(0, 0, 0);
 	padding-top: 5px;
 	padding-right: 0.5em;
 	padding-left: 0.5em;
@@ -201,26 +206,22 @@ h3 {
 }
 
 h4 {
-	font-size: 14px;
-	font-weight: normal;
+	font-size: 17px;
 	padding-right: 0.5em;
 	padding-left: 0.5em;
+	border-bottom: 2px solid #f5ca02;
+	width: 120px
 }
 
 h5 {
-	font-size: 14px;
-	padding-top: 15px;
-	padding-right: 15px;
-	padding-bottom: 15px;
-	padding-left: 15px;
-	box-shadow: rgb(170, 170, 170) 0px 0px 3px;
-	color: #777;
-	font-weight: 400;
-	line-height: 1.75em;
+	font-size: 16px;
+	padding-right: 1.2em;
+	padding-left: 1.2em;
+	text-align: center;
 }
 
 h6 {
-	font-size: 16px;
+	font-size: 18px;
 	padding-right: 0.5em;
 	padding-left: 0.5em;
 	border-bottom: 2px solid rgb(42, 52, 58);
@@ -267,8 +268,8 @@ table tr th {
 }
 
 p {
-	font-size: 16px;
-	line-height: 1.75em;
+	font-size: 17px;
+	line-height: 2em;
 	padding-top: 0.5em;
 	padding-bottom: 0.5em;
 	padding-right: 0.7em;
