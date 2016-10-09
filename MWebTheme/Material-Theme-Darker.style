@@ -7,7 +7,7 @@
 # [Solarized - Ethan Schoonover](http://ethanschoonover.com/solarized)
 
 editor
-foreground: ffffff # base1 正文字体颜色
+foreground: ced8dd # base1 正文字体颜色
 background: 243238 # base03 背景色 
 caret: ffffff
 
