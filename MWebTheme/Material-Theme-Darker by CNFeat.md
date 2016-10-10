@@ -4,31 +4,33 @@
 
 # (dark background version)
 
+# [Solarized - Ethan Schoonover](http://ethanschoonover.com/solarized)
 
 editor
-foreground: ffffff # base1 正文字体颜色
+foreground: ced8dd # base1 正文字体颜色
 background: 243238 # base03 背景色 
 caret: ffffff
 
 H1
-foreground: 82AAFF # blue 一级标题颜色
+foreground: 268bd2 # blue 一级标题颜色
 
 
 H2
-foreground: 82AAFF # blue 二级标题颜色
-
+foreground: 0097d7 # blue 二级标题颜色
+font-style: bold
 
 H3
-foreground: 82AAFF # blue 三级标题颜色
+foreground: 0086b9 # blue 三级标题颜色
+font-style: bold
 
 H4
-foreground: 268bd2 # blue 四级标题颜色
+foreground: 0086b9 # blue 四级标题颜色
 
 H5
-foreground: 268bd2 # blue 五级标题颜色
+foreground: 6a71c1 # blue 五级标题颜色
 
 H6
-foreground: 268bd2 # blue 六级标题颜色
+foreground: 6a71c1 # blue 六级标题颜色
 font-style: bold
 
 HRULE
