@@ -4,7 +4,7 @@
 ## GitbookTemplate 使用方法
 
 
-- 第一步：fork GitbookTemplate 仓库
+- 第一步：fork [GitbookTemplate 仓库](https://github.com/cnfeat/GitbookTemplate)
 - 第二步：注册/登录 Gitbook，推荐直接用 github 账号登录
 - 第三步：添加图书
 	+ 登录进去后点击 + New Book

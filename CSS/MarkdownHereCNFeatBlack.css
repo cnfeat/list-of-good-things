@@ -215,6 +215,7 @@ h4 {
 
 h5 {
 	font-size: 16px;
+	color: #f5ca02;
 	padding-right: 1.2em;
 	padding-left: 1.2em;
 	text-align: center;
@@ -269,7 +270,7 @@ table tr th {
 
 p {
 	font-size: 17px;
-	line-height: 2em;
+	line-height: 1.8em;
 	padding-top: 0.5em;
 	padding-bottom: 0.5em;
 	padding-right: 0.7em;
