@@ -85,9 +85,17 @@ Permalink for the corresponding WorkFlowy blog post: https://blog.workflowy.com/
       * tag 也可以加入 notes 中 #Tag
       * Tag 的命名及用法 #Tag
         * [The Simplest (and Most Powerful) Way to Navigate WorkFlowy – Hands Down – WorkFlowy Blog](https://blog.workflowy.com/2016/06/02/tag-navigation/)
+  - 如何获取更多技巧？
+      * 订阅 Workflowy博客
+        * https://blog.workflowy.com/
+      * 注册后保持订阅来自 help@Workflowy.com 的邮件
+      * 以上技巧皆来自以上两个方法。
+   
 
 
 ## ChongLog
 
+ 
+- 2016-10-17 增补获取更多技巧
 - 2016-10-12 陈素封 创建
 
