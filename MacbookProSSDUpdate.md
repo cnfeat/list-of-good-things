@@ -188,6 +188,8 @@ SSD 拉出后的是这样的。
 
 ![](http://openmindclub.qiniudn.com/omt/MacSSD21.jpg)
 
+（此为导热膜，不该撕去，https://www.youtube.com/watch?v=engdHBU7fwY 更新 2016-12-11 ）
+
 原装三星 SSD 与 OWC Aura SSD 对比。
 
 ![](http://openmindclub.qiniudn.com/omt/MacSSD20.jpg)
