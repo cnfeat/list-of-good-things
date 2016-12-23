@@ -54,7 +54,7 @@ h2 {
 
 ### Changlog
 
-
+- 2016-12-15 增加字间距离 
 - 2016-10-02 修订为 读立写生 御用版式
 - 2016-07-25 调整正文字体为16号，修正部分错误
 - 2016-06-23 调整正文字体为16号，正文行距为1.75
@@ -275,4 +275,5 @@ p {
 	padding-bottom: 0.5em;
 	padding-right: 0.7em;
 	padding-left: 0.7em;
+	letter-spacing: 0.1em !important;
 }；
