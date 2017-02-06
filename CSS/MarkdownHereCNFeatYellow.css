@@ -1,6 +1,6 @@
 /*说明:
 
-## 独立写生御用 微信排版格式
+## 独立写生 御用微信排版格式
 
 ### 正文设置
 
@@ -54,6 +54,7 @@ h2 {
 
 ### Changlog
 
+- 2017-02-06 修订字间距及六级标题置中
 - 2016-12-15 增加字间距离 
 - 2016-10-02 修订为 读立写生 御用版式
 - 2016-07-25 调整正文字体为16号，修正部分错误
@@ -93,6 +94,7 @@ li {
 	line-height: 1.5em;
 	font-size: 17px;
 	color: #3e3e3e;
+	letter-spacing: 0.05em !important;
  /*无序和有序的行距*/
 }
 
@@ -226,7 +228,8 @@ h6 {
 	padding-right: 0.5em;
 	padding-left: 0.5em;
 	border-bottom: 2px solid rgb(42, 52, 58);
-	width: 120px
+	text-align: center;
+	justify-content: center;
 }
 
 table {
@@ -275,5 +278,5 @@ p {
 	padding-bottom: 0.5em;
 	padding-right: 0.7em;
 	padding-left: 0.7em;
-	letter-spacing: 0.1em !important;
+	letter-spacing: 0.05em !important;
 }；

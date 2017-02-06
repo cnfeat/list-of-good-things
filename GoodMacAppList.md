@@ -130,6 +130,12 @@ http://pan.baidu.com/s/1hrddRKS
 - [中国传统色彩颜色表(Chinese traditional colors ) 一览好文 ylbook.com](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 
 
+## 安装应用设置没有「任何来源」选项的解决办法
 
+
+解决方案：
+打开「终端」，输入sudo spctl --master-disable，然后输入密码。
+
+- [macOS Sierra 10.12 中安装应用设置没有“任何来源”选项的解决办法 - 简书](http://www.jianshu.com/p/eb11bffc59e3)
 
 
