@@ -54,6 +54,7 @@ h2 {
 
 ### Changlog
 
+- 2017-02-15 修订字体为 16 号，六级标题和五级标题改成蓝色
 - 2017-02-06 修订字间距及六级标题置中
 - 2016-12-15 增加字间距离 
 - 2016-10-02 修订为 读立写生 御用版式
@@ -92,7 +93,7 @@ ul, ol {
 li {
 	margin: 0.5em 0;
 	line-height: 1.5em;
-	font-size: 17px;
+	font-size: 16px;
 	color: #3e3e3e;
 	letter-spacing: 0.05em !important;
  /*无序和有序的行距*/
@@ -217,18 +218,34 @@ h4 {
 
 h5 {
 	font-size: 16px;
-	color: #f5ca02;
+	color: #1a95a5;
 	padding-right: 1.2em;
 	padding-left: 1.2em;
 	text-align: center;
 }
 
+
 h6 {
 	font-size: 18px;
+	min-height: 32px;
+	line-height: 14px;
+	border-bottom: solid 1px rgb(0, 0, 0);
+	color: #1a95a5;
+	display: inline-block;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-color: #1a95a5;
+	padding-top: 5px;
 	padding-right: 0.5em;
 	padding-left: 0.5em;
-	border-bottom: 2px solid rgb(42, 52, 58);
+	margin-bottom: -3px;
+	margin: 1em auto;
+	padding: 0.5em 0;
 	text-align: center;
+	width: 40%;
+	font-weight: normal;
+	display: flex;
+	flex-direction: column;
 	justify-content: center;
 }
 
@@ -272,10 +289,10 @@ table tr th {
 }
 
 p {
-	font-size: 17px;
+	font-size: 16px;
 	line-height: 1.8em;
-	padding-top: 0.5em;
-	padding-bottom: 0.5em;
+	padding-top: 0.9em;
+	padding-bottom: 0.9em;
 	padding-right: 0.7em;
 	padding-left: 0.7em;
 	letter-spacing: 0.05em !important;
