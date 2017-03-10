@@ -78,6 +78,8 @@
 	+ [wjp2013/wjp2013.github.io: 个人技术博客](https://github.com/wjp2013/wjp2013.github.io)
 - http://materliu.github.io/
 	+ [materliu/materliu.github.io: my personal github pages!](https://github.com/materliu/materliu.github.io)
+- http://bambooom.github.io/
+	+ [bambooom/bambooom.github.io: http://🍣🐱😎🎱🍇🍪🚰🏈.🍕💩.ws](https://github.com/bambooom/bambooom.github.io)
 
 
 
