@@ -1,19 +1,17 @@
 # 好·应用清单
 
-
-
 ## Alfred
 
 - [5 款提高文件处理效率的 Alfred 扩展 - 少数派](http://sspai.com/32680)
-	+ 已使用 [NewFile | Packal](http://www.packal.org/workflow/newfile) 和 [TerminalFinder | Packal](http://www.packal.org/workflow/terminalfinder)
-- 注意开通粘贴板功能
-	- 一句话点评其他粘贴板工具
-		* Paste（太慢）
-		* CopyClip（太慢）
-		* ClipMenu（占内存）
-		* Pin（体验差）
-		
+- 使用最频繁的是自定义搜索与粘贴板功能
+- 最好用的是定义 阳志平的博客 站点搜索，可以快速搜索出他的文章语句
+	+ 分享 Search URL https://www.google.com/search?q=site%3Awww.yangzhiping.com+{query}
+
+
+如何开通粘贴板功能？
+
 ![](http://openmindclub.qiniudn.com/omt/AlfredClipboardSetting.jpg)
+
 
 ## Sublime 
 
@@ -52,7 +50,6 @@
 - 颜色主题
 	+ Material Theme 个人暂时最爱，无序列表有标记
 	+ Theme - itg.flat 小清新，无序列表无标记
-
 - SideBarFolders
 - SyncedSidebarBg
 	+ 可以将侧栏的背景颜色自动调节成与主题一致
@@ -70,11 +67,8 @@
 ## Manico
 
 - [简洁、高效、易用，Mac App 快速启动及切换工具：Manico 2.0 - 少数派](http://sspai.com/32457)
-- 备用：[Snap：在 Mac App Store 上的内容](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)
-	+ [mac软件之Snap-设置键盘快捷键来启动苹果电脑上软件 | 苹果男](http://www.pgnan.com/2194.html)
-
-
-
+	+ 定义快捷键后，切换窗口飞飞快！
+	- 备用：[Snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)及其[使用方法](http://www.pgnan.com/2194.html)
 
 ## PopClip
 
@@ -86,10 +80,16 @@
 	+ Command (⌘) 划选后恢复成无序列表
 - WebMarkdown
 	+ 划选网页的文字，转换成 Markdown 格式并自动复制
+	+ **编辑公众号必备工具，强烈推荐**
+- [URL shortener](https://github.com/pilotmoon/PopClip-Extensions)
+	+ 强烈推荐，一键将长链接缩短成短链接
+- taobao、百度、Note
+	+ 看着用就好
 
-参考 Markdown 用户插件清单下载 [Brett's PopClip Extensions](https://github.com/ttscoff/popclipextensions)
 
+参考资料
 
+- 参考 Markdown 用户插件清单下载 [Brett's PopClip Extensions](https://github.com/ttscoff/popclipextensions)
 - 官方[PopClip Extensions](https://pilotmoon.com/popclip/extensions/) 
 - [没那么简单：PopClip for Mac - 少数派](http://sspai.com/25483)
 
@@ -98,15 +98,12 @@
 
 截图良心工具
 
-
 - 可自定义命名
 - 后期调整，一应俱全
 
 ## 鼠须管输入法
 
-如果你使用的输入法刚好也是小鹤双拼，那么安装后直接复制到 /Library/Rime ，然后 Deploy 即可。
-
-[cnfeat/Rime](https://github.com/cnfeat/Rime)
+如果你使用的输入法刚好也是小鹤双拼，那么安装后直接复制到 /Library/Rime ，然后 Deploy 即可。数据地址：[cnfeat/Rime](https://github.com/cnfeat/Rime)
 
 待解决问题：
 
@@ -114,13 +111,6 @@
 - 全角和半角如何切换？
 - 中英文输入不顺畅
 - 中英文输入 按下enter是全角的
-
-
-主题模板自定义
-
-http://pan.baidu.com/s/1hrddRKS
-	- [分享生成Rime配色方案的小工具_rime吧_百度贴吧](http://tieba.baidu.com/p/2491103778)
-
 
 参考链接
 
@@ -130,6 +120,16 @@ http://pan.baidu.com/s/1hrddRKS
 - [中国传统色彩颜色表(Chinese traditional colors ) 一览好文 ylbook.com](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 
 
+## atext
+
+一款Mac上的文字快速输入替换工具，谁用知道。
+
+
+## 小历
+
+短小精悍的日历工具，带农历，免费。
+
+
 ## 安装应用设置没有「任何来源」选项的解决办法
 
 
@@ -137,5 +137,12 @@ http://pan.baidu.com/s/1hrddRKS
 打开「终端」，输入sudo spctl --master-disable，然后输入密码。
 
 - [macOS Sierra 10.12 中安装应用设置没有“任何来源”选项的解决办法 - 简书](http://www.jianshu.com/p/eb11bffc59e3)
+
+
+
+### ChangeLog
+
+
+- 2017-05-04 增补 atext、小历
 
 
