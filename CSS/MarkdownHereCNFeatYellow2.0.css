@@ -54,6 +54,7 @@ h2 {
 
 ### Changlog
 
+- 2017-06-03 修订 letter-spacing: 为 0.03em
 - 2017-05-13 去掉二级标题横线
 - 2017-02-15 修订字体为 16 号，六级标题和五级标题改成蓝色
 - 2017-02-06 修订字间距及六级标题置中
@@ -280,5 +281,5 @@ p {
 	padding-bottom: 0.9em;
 	padding-right: 0.7em;
 	padding-left: 0.7em;
-	letter-spacing: 0.05em !important;
+	letter-spacing: 0.03em !important;
 }；
