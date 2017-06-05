@@ -2,9 +2,8 @@
 
 # material-theme https://github.com/equinusocio/material-theme
 
-# (dark background version)
+# https://github.com/cnfeat/GoodThingList/tree/master/MWebTheme
 
-# [Solarized - Ethan Schoonover](http://ethanschoonover.com/solarized)
 
 editor
 foreground: ced8dd # base1 正文字体颜色
@@ -17,11 +16,9 @@ foreground: 268bd2 # blue 一级标题颜色
 
 H2
 foreground: 0097d7 # blue 二级标题颜色
-font-style: bold
 
 H3
 foreground: 0086b9 # blue 三级标题颜色
-font-style: bold
 
 H4
 foreground: 0086b9 # blue 四级标题颜色

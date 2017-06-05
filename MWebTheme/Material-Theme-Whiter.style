@@ -1,46 +1,49 @@
-# Material-Theme-Darker by CNFeat
+# Material-Theme-Whiter by CNFeat
 
-# material-theme https://github.com/equinusocio/material-theme
+# 2017-06-05 修改
 
 # https://github.com/cnfeat/GoodThingList/tree/master/MWebTheme
 
-
 editor
-foreground: ced8dd # base1 正文字体颜色
-background: 243238 # base03 背景色 
-caret: ffffff
+foreground: 1a1a1a # base1 正文字体颜色
+background: ffffff # base03 背景色 
+caret: ddb14c # 光标颜色
 
 H1
-foreground: 268bd2 # blue 一级标题颜色
-
+foreground: 007efd # blue 一级标题颜色
+font-style: bold
 
 H2
 foreground: 0097d7 # blue 二级标题颜色
+font-style: bold
 
 H3
-foreground: 0086b9 # blue 三级标题颜色
+foreground: 5ab77a # blue 三级标题颜色
+font-style: bold
 
 H4
 foreground: 0086b9 # blue 四级标题颜色
+font-style: bold
 
 H5
 foreground: 6a71c1 # blue 五级标题颜色
+font-style: bold
 
 H6
 foreground: 6a71c1 # blue 六级标题颜色
 font-style: bold
 
 HRULE
-foreground: 586e75 # base01 可能是光标所在行背景
+foreground: 2e81d7 # base01 可能是光标所在行背景
 
 LIST_BULLET
-foreground: FF5370 # red 无序列表的点点
+foreground: f4714d # red 无序列表的点点
 
 LIST_ENUMERATOR
 foreground: FF5370 # red 无序列表的点点
 
 LINK
-foreground: FF5370 # red 链接颜色
+foreground: f4714d # red 链接颜色
 
 AUTO_LINK_URL
 foreground: 2aa198 # cyan
@@ -49,7 +52,7 @@ AUTO_LINK_EMAIL
 foreground: 2aa198 # cyan
 
 IMAGE
-foreground: d33682 # magenta
+foreground: f4714d # magenta 图片链接颜色
 
 REFERENCE
 foreground: 80FF5370 # red, reduced alpha
@@ -62,7 +65,7 @@ foreground: cb4b16 # orange 斜体
 font-style: italic
 
 STRONG
-foreground: FFCB6B # yellow 加粗
+foreground: c9317f # yellow 加粗
 font-style: bold
 
 HTML_ENTITY
