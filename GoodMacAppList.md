@@ -139,10 +139,26 @@
 - [macOS Sierra 10.12 中安装应用设置没有“任何来源”选项的解决办法 - 简书](http://www.jianshu.com/p/eb11bffc59e3)
 
 
+## 外接屏幕设置
+
+2017-06-20 购买 U2715H 显示器，2K 分辨率，发现默认显示字体偏小，于是根据此文章：[新MacBook Pro连接并使用SwitchResX开启2K HiDPI ](https://blog.xingoxu.com/2016/12/config-switchresx-and-2khidpi/)开始设置
+
+
+
+- 下载 SwitchResX
+- 关闭 SIP 
+	- 重启电脑，并在开机声音响起后按住command+R进入recovery mode
+	- 实用工具，进入终端Terminal
+	- 在终端里输入csrutil disable ，该命令即为关闭SIP的命令行语句
+* 进入 SwitchResX [添加自定义规则](https://www.zhihu.com/question/35300978)
+	- 如果你想要设置分辨率是 2048 * 1152 ，可以设置成 4096 * 2304
+	- 如果你想要设置分辨率是 1920 * 1080 ，可以设置成 3840 * 2160
+
+
 
 ### ChangeLog
 
-
+- 2017-06-26 增补 U2715H 显示器设置
 - 2017-05-04 增补 atext、小历
 
 
