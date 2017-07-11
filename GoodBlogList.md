@@ -8,6 +8,9 @@
 时光会证明一切。
 
 
+PS：我的原创作品列表：http://www.cnfeat.com/about/
+
+
 ## 100 个订阅源
 
 为你精选 100 个订阅源，如果你懒得甄选，有这100个足矣。
@@ -224,8 +227,7 @@ OPC| #|#|#
 ## 推荐订阅方法
 
 + 微信公众号
-	+ [微广场](http://rss.catcoder.com/)
-	+ 作者：[CatCoder](http://www.catcoder.com/)
+	+ [今天看啥](http://www.jintiankansha.me/)
 - 简书
 	- [Jianshu RSS](http://jianshu.milkythinking.com/)
 	+ 作者：[MilkyThinking](http://milkythinking.com/)
@@ -236,6 +238,7 @@ OPC| #|#|#
 
 ## 更新
 
+- 2017-07-11 更新微信公众号 RSS 订阅工具网址
 - 2016-01-24 23:02:34 补增100个订阅源
 - 2016-01-24 15:16:34 逐一检查，去掉愤青/日志类博客
 - 2016-01-21 00:16:46 补增各站点订阅方法和RSS Subscription Extension 插件
