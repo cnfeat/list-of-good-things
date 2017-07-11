@@ -48,7 +48,7 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 地址：http://t.xiaomiquan.com/ufe23vv
 
-![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg)
+![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg?imageMogr2/thumbnail/!50p)
 
 ### 小鹅通：每天写1000字改变自己
 
@@ -58,7 +58,7 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 地址：https://h5.xiaoeknow.com/appmcFwb1Wy8464/
 
-![](http://openmindclub.qiniudn.com/omt/ProductList02.jpg)
+![](http://openmindclub.qiniudn.com/omt/ProductList02.jpg?imageMogr2/thumbnail/!50p)
 
 ### 博客/公众号：读立写生
 
@@ -68,7 +68,7 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 地址：www.cnfeat.com 
 
-![](http://openmindclub.qiniudn.com/omt/ProductList03.jpg)
+![](http://openmindclub.qiniudn.com/omt/ProductList03.jpg?imageMogr2/thumbnail/!50p)
 
 ### 邮件列表：卡片创作通讯
 
@@ -78,7 +78,7 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 地址：http://tinyletter.com/cnfeat
 
-![](http://openmindclub.qiniudn.com/omt/ProductList04.jpg)
+![](http://openmindclub.qiniudn.com/omt/ProductList04.jpg?imageMogr2/thumbnail/!50p)
 
 
 ## 最后
