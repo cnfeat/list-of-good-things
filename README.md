@@ -27,6 +27,11 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 - [好·播客清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodPodcastList)
 - 其他的陆续更新中，你可以一个个点开看
 
+## 好·生活用品（重点推荐）
+
+- [好·生活好物](https://github.com/cnfeat/GoodThingList/blob/master/GoodLivingGoods)
+
+
 ## Mac 与 iPhone 使用技巧
 
 * [好·Mac 应用清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodMacAppList.md)
