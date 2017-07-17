@@ -24,12 +24,12 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 - [好·邮件列表](https://github.com/cnfeat/GoodThingList/blob/master/GoodMailList.md)
 - [好·字体清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodFontList.md)
 - [好·博客主题清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodJekyllBlogList.md)
-- [好·播客清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodPodcastList)
+- [好·播客清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodPodcastList.md)
 - 其他的陆续更新中，你可以一个个点开看
 
 ## 好·生活用品（重点推荐）
 
-- [好·生活好物](https://github.com/cnfeat/GoodThingList/blob/master/GoodLivingGoods)
+- [好·生活好物](https://github.com/cnfeat/GoodThingList/blob/master/GoodLivingGoods.md)
 
 
 ## Mac 与 iPhone 使用技巧
