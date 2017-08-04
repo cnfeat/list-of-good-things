@@ -62,6 +62,15 @@ Google Voice 是由Google推出的VOIP服务。有了她，就可以免费美国
 
 申请成功会有邮件通知
 
+## 防止回收
+
+据说半年不打电话发短信就有可能被回收，所以有备无患。
+
+首先注册并登陆 IFTTT，访问：https://ifttt.com/applets/131839p-keep-google-voice-active； 然后 Connect Phone Call，填入 Your phone number 即 Google Voice 号码，点击收到语音验证码 ，最后选择预订的时间并添加就好了。
+
+或拨打美国之音电话：+1 213-493-0288
+
+
 ## 参考文章
 
 - [在国内拥有一个美国电话号码的必要性 - 知乎专栏](https://zhuanlan.zhihu.com/p/27807882?from=groupmessage&isappinstalled=0)
