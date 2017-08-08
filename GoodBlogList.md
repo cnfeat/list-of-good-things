@@ -245,7 +245,7 @@ PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个
 ## 推荐订阅方法
 
 + 微信公众号
-	+ [今天看啥](http://www.jintiankansha.me/)
+	+ [今天看啥](http://www.jintiankansha.me/account/signup?invite_codeOJEFUUDLJR)
 - 简书
 	- [Jianshu RSS](http://jianshu.milkythinking.com/)
 	+ 作者：[MilkyThinking](http://milkythinking.com/)
