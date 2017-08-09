@@ -85,6 +85,12 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 ![](http://openmindclub.qiniudn.com/omt/ProductList04.jpg?imageMogr2/thumbnail/!30p)
 
+## 电报群：读立写生
+
+链接：https://t.me/joinchat/DBBMvQwAzVbD7RiiDe4Mbg
+
+官方唯一公开讨论群
+
 
 ## 最后
 
@@ -97,6 +103,6 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 ## ChangeLog
 
-
+- 2017-08-09 增补电报群
 - 2017-07-11 增补我的产品列表
 - 2016-10-10 系统整理 README 文档
