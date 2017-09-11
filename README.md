@@ -55,15 +55,6 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 ![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg?imageMogr2/thumbnail/!30p)
 
-### 小鹅通：每天写1000字改变自己
-
-主题付费专栏。精心整理出博客或小密圈的主题文章，主题将包括 1）跨学科学习；2）卡片创作法；3）如何开设自己专栏；4）简洁写作风格指南；5）向大师学习之西蒙篇。
-
-价格：0.01元 ~ 42 元不等，每个季度至少更新 1 个主题。
-
-地址：https://h5.xiaoeknow.com/appmcFwb1Wy8464/
-
-![](http://openmindclub.qiniudn.com/omt/ProductList02.jpg?imageMogr2/thumbnail/!30p)
 
 ### 博客/公众号：读立写生
 
