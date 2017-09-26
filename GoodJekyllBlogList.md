@@ -80,7 +80,8 @@
 	+ [materliu/materliu.github.io: my personal github pages!](https://github.com/materliu/materliu.github.io)
 - http://bambooom.github.io/
 	+ [bambooom/bambooom.github.io: http://🍣🐱😎🎱🍇🍪🚰🏈.🍕💩.ws](https://github.com/bambooom/bambooom.github.io)
-
+- https://dylanninin.com/
+	+ [dylanninin/dylanninin.github.com: Personal blog powered by GitHub Pages](https://github.com/dylanninin/dylanninin.github.com)
 
 
 Good

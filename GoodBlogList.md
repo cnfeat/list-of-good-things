@@ -253,6 +253,18 @@ PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个
 	+ 支持直接订阅
 - [搜狗微信搜索](http://weixin.sogou.com/)
 
+## 自愿付费
+
+有价值的事物，值得付出时间，也值得付出金钱。
+
+喜欢文章的人可自愿付费，当然也可以不付费。
+
+
+<center>
+    <p><img src="http://openmindclub.qiniudn.com/omt/WechatPay.jpg" align="center"></p>
+</center>
+
+
 
 ## 更新
 
