@@ -155,6 +155,11 @@
 	- 如果你想要设置分辨率是 1920 * 1080 ，可以设置成 3840 * 2160
 
 
+## 其他参考
+
+- [the_room_of_exercises/Best-App-for-Mac.md at master · wjp2013/the_room_of_exercises](https://github.com/wjp2013/the_room_of_exercises/blob/master/guides/Best-App-for-Mac.md)
+
+
 
 ### ChangeLog
 
