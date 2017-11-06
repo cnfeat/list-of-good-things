@@ -24,7 +24,6 @@
     * 2016 年 10 月，考虑一年至少长途游，一个背包可以两个人用，在闲鱼 500 购入
     * [小鹰 48_淘宝搜索](https://s.taobao.com/search?q=%E5%B0%8F%E9%B9%B0+48&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20161010&ie=utf8)
 * iPhone 6P
-    * 老婆的哥哥送给老婆，老婆给我用
     * 原来是 16G，后来发觉不够用，狠心去中关村扩容（2016-04-18 ）成 128 G，使用至今（2017-07-13）没有问题，这 500 元是算挺划算
     * [苹果6s6P手机加内存iphone6splus6扩容128g7P升级64g改5s换se硬盘-淘宝网](https://item.taobao.com/item.htm?spm=a230r.1.14.20.ebb2eb2ICqKSs&id=553497295307&ns=1&abbucket=4#detail)
 * 红米手机
@@ -172,7 +171,32 @@
   - 用 Trello 与老婆记录家庭大小事，例如各种大开支、旅行计划、家人生日等
   - 与老婆共用 Day One 每天更新图片，
 
+## 超值剁手卡片
+
+### 超值剁手# 懒人手机支架
+
+购买理由：第一原因是当然是价格实惠。用料充足，不足 5 块钱一个，买四个还可以打折，建议一口气买四个，送人或备用都可以。第二大理由就是方便实用。1）我常使用 iPad 读论文，手持太重，一般保护套仅支持横放，这个支架刚好可以解决需求，解放双手，可以一遍吃零食一边看书看论文；2）习惯使用 iPad 多屏办公的，买一个放在办公桌可提高办公效率；3）当然如果你有 Kindle ，这样读书可以一边看书一遍拿个笔记本做笔记；4）喜欢手机看视频的，这个小物件简直完美；5）个人还有卡片写作的习惯，用这个支架来放置卡片刚刚好，卡片伸手可得，方便随时创作。6）如果你喜欢用手机外放听音频节目，做瑜伽时，你可以把手机放在地面；做饭时，你可以把手机放在油盐酱醋旁边，洗碗时，你可以把手机放在洗手盆边……完全适应各种复杂环境。
+
+购买链接：http://t.cn/RlX4ZGo 其他好物请看：http://t.cn/RlXqA1C
+
+
+![](http://openmindclub.qiniudn.com/omt/LivingGoods01.jpg)
+
+![](http://openmindclub.qiniudn.com/omt/LivingGoods02.jpg)
+
+![](http://openmindclub.qiniudn.com/omt/LivingGoods03.jpg)
+
+![](http://openmindclub.qiniudn.com/omt/LivingGoods04.jpg)
+
+![](http://openmindclub.qiniudn.com/omt/LivingGoods05.jpg)
+
+
+
+
+
+
 ### ChangeLog
 
-  - 2017-07-13 更新
+- 2017-07-13 更新
+- 2017-11-06 此文章每年双十一可复用，便萌生写超值剁手卡片想法。
 
