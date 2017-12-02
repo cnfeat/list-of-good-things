@@ -41,7 +41,7 @@
 	+ [jglovier/jglovier.github.io](https://github.com/jglovier/jglovier.github.io)
 - http://hospitalrun.io/
 	+ [HospitalRun/hospitalrun.github.io](https://github.com/HospitalRun/hospitalrun.github.io)
-- emptymalei.github.io
+- http://emptymalei.github.io
 	+ [emptymalei/emptymalei.github.io](https://github.com/emptymalei/emptymalei.github.io)
 - https://mdluo.github.io/
 	- [mdluo/mdluo.github.io](https://github.com/mdluo/mdluo.github.io)
@@ -66,8 +66,6 @@
 	+ [JekyllWriter/blog](https://github.com/JekyllWriter/blog)
 - http://ShuangFarmer.github.io
 	+ [ShuangFarmer/ShuangFarmer.github.io: 一亩田](https://github.com/ShuangFarmer/ShuangFarmer.github.io)
-- http://www.haojianzong.com
-	+ [haojianzong/haojianzong.github.io: My jekyll blog](https://anrenmind.slack.com/messages/omc_writer002/)
 - https://4679.github.io
 	+ [4679/4679.github.io](https://github.com/4679/4679.github.io)
 - https://blog.tankywoo.com/
@@ -90,3 +88,24 @@ Good
 	+ [suyan/suyan.github.io: My Blog.](https://github.com/suyan/suyan.github.io)
 - http://peiwen.lu/
 	+ [P233/P233.github.io](https://github.com/P233/P233.github.io)
+- [极简主题：TeXt Theme - Qi's Blog](https://tianqi.name/blog/2017/10/05/TeXt-theme.html)
+
+展示类
+
+- https://liberxue.github.io/
+	+ [Liberxue/liberxue.github.io: Liberxue blog for Jekyll themes 轻量级自适应 简洁 卡片式博客主题 30秒搞定GitHub blog](https://github.com/Liberxue/liberxue.github.io)
+- https://myjekyll.github.io/jasper2/
+
+- [Jekyll Doc Theme](https://aksakalli.github.io/jekyll-doc-theme/)
+
+更多模板请看
+
+[Jekyll Themes](http://jekyllthemes.org/)
+
+
+
+### ChangeLog
+
+
+- 2017-12-01 更新
+
