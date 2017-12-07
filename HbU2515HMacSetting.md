@@ -29,7 +29,6 @@ sudo defaults write /Library/Preferences/com.apple.windowserver DisplayResolutio
 文件地址：[DisplayProductID-d06e](https://github.com/cnfeat/GoodThingList/blob/master/DisplayProductID-d06e)> 可以打包下载这个压缩包[GoodThingList](https://github.com/cnfeat/GoodThingList/blob/master/DisplayProductID-d06e)再解压获得
 
 
-
 说明：DELL 的vendorID 为 0x10ac，因此要有 DisplayVendorID-10ac 这个文件夹。
 U2515H 的 productID 为 0xd06e，因此上面的文件夹里要有 DisplayProductID-d06e 这个文件，这个文件是配置分辨率的。
 

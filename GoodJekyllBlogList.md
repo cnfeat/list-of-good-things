@@ -80,8 +80,10 @@
 	+ [bambooom/bambooom.github.io: http://🍣🐱😎🎱🍇🍪🚰🏈.🍕💩.ws](https://github.com/bambooom/bambooom.github.io)
 - https://dylanninin.com/
 	+ [dylanninin/dylanninin.github.com: Personal blog powered by GitHub Pages](https://github.com/dylanninin/dylanninin.github.com)
-
-
+- [About Me](http://ankitsultana.com/researcher/)
+- [About · Hyde](http://hyde.getpoole.com/about/)
+- [About · Hyde](http://hyde.getpoole.com/about/)
+	+ 改成我的简历
 Good
 
 - http://yansu.org/
@@ -90,6 +92,7 @@ Good
 	+ [P233/P233.github.io](https://github.com/P233/P233.github.io)
 - [极简主题：TeXt Theme - Qi's Blog](https://tianqi.name/blog/2017/10/05/TeXt-theme.html)
 
+
 展示类
 
 - https://liberxue.github.io/
@@ -97,6 +100,12 @@ Good
 - https://myjekyll.github.io/jasper2/
 
 - [Jekyll Doc Theme](https://aksakalli.github.io/jekyll-doc-theme/)
+- [jekyllDecent](http://jekyllthemes.org/themes/jekyllDecent/)
+- [Twenty](http://jekyllthemes.org/themes/twenty/)
+- [Dopetrope](http://jekyllthemes.org/themes/dopetrope/)
+- http://templated.co
+- [Creative - Start Bootstrap Theme](https://volny.github.io/creative-theme-jekyll/)
+- [About · Hyde](http://hyde.getpoole.com/about/)
 
 更多模板请看
 
