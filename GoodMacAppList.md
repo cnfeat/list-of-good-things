@@ -12,6 +12,15 @@
 
 ![](http://openmindclub.qiniudn.com/omt/AlfredClipboardSetting.jpg)
 
+## MWeb
+
+MWeb 图片自动上传新浪图床
+
+[MWeb 下自动上传图片到新浪图床 – invisprints – Medium](https://medium.com/@invisprints/mweb-%E4%B8%8B%E8%87%AA%E5%8A%A8%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E5%88%B0%E6%96%B0%E6%B5%AA%E5%9B%BE%E5%BA%8A-69ff1dfa0f8d)
+
+[J3n5en/sinaPicHostingApi: 新浪图床api](https://github.com/J3n5en/sinaPicHostingApi)
+
+
 
 ## Sublime 
 
