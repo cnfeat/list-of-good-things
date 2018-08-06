@@ -91,7 +91,8 @@ Good
 - http://peiwen.lu/
 	+ [P233/P233.github.io](https://github.com/P233/P233.github.io)
 - [极简主题：TeXt Theme - Qi's Blog](https://tianqi.name/blog/2017/10/05/TeXt-theme.html)
-
+- livid.github.io
+	+ [livid/livid.github.io](https://github.com/livid/livid.github.io)
 
 展示类
 
