@@ -53,14 +53,14 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 搜索「笨方法学写作」，可查看我的刻意练习写作 4 年多的故事。
 
-本课程已更新超 10W+ 字，已涨价一次，目前每周持续升级，未来会涨价至 399 元。
+本课程已更新超 10W+ 字，已涨价一次，目前每周持续升级， 399 元。
 
 地址：http://t.xiaomiquan.com/ufe23vv
 
 ![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg?imageMogr2/thumbnail/!30p)
 
 
-### 博客/公众号：读立写生
+### 博客/公众号：笨方法学写作
 
 汇总我写过的所有公开文章。内容包括写作方法、跨学科学习、认知科学、翻译、千字文练习等。
 
@@ -69,22 +69,6 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 地址：www.cnfeat.com 
 
 ![](http://openmindclub.qiniudn.com/omt/ProductList03.jpg?imageMogr2/thumbnail/!30p)
-
-### 邮件列表：卡片创作通讯
-
-书信体的个人生活与学习建议（与博客内容不同）。推荐内容包括认知科学、 卡片、创作等等。
-
-免费，每月至少更新 1 封。
-
-地址：http://tinyletter.com/cnfeat
-
-![](http://openmindclub.qiniudn.com/omt/ProductList04.jpg?imageMogr2/thumbnail/!30p)
-
-## 电报群：读立写生
-
-链接：https://t.me/joinchat/DBBMvQwAzVbD7RiiDe4Mbg
-
-官方唯一公开讨论群
 
 
 ## 最后
@@ -98,6 +82,7 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 ## ChangeLog
 
+- 2018-12-22 更新
 - 2017-08-09 增补电报群
 - 2017-07-11 增补我的产品列表
 - 2016-10-10 系统整理 README 文档
