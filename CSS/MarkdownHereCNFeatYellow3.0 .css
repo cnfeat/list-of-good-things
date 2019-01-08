@@ -54,7 +54,7 @@ h2 {
 
 ### Changlog
 
-- 2018-12-24 更新成为黄色标题 #FDB931
+- 2018-12-24 更新成为绿色加粗标题 #01897B
 - 2017-06-03 修订 letter-spacing: 为 0.03em
 - 2017-05-13 去掉二级标题横线
 - 2017-02-15 修订字体为 16 号，六级标题和五级标题改成蓝色
@@ -138,7 +138,7 @@ dl dd {
 }
 
 blockquote, q {
-	border-left: 4px solid #888;
+	border-left: 4px solid #01897B;
 	padding: 0 0.5em;
 	color: #888!important;
 	quotes: none!important;
@@ -184,7 +184,7 @@ h1 {
 
 h2 {
 	font-size: 20px;
-	color: #2D3A4A;
+	color: #3e3e3e;
 	padding-right: 1.2em;
 	padding-left: 1.2em;
 	text-align: center !important;
@@ -205,8 +205,8 @@ h4 {
 }
 
 h5 {
-	font-size: 16px;
-	color: #01897B;
+	font-size: 14px;
+	color: #3e3e3e;
 	padding-right: 1.2em;
 	padding-left: 1.2em;
 	text-align: center;
@@ -288,5 +288,5 @@ p {
 }
 
 strong {
-    color: #01897B;
+    color: #2D3A4A;
 }；
