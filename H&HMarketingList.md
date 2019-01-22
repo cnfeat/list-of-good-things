@@ -1,5 +1,22 @@
 # 华与华营销案例学习清单
 
+
+## 价值观
+
+
+* [2017年会演讲：迈向百亿咨询集团](https://mp.weixin.qq.com/s?__biz=MjM5MTk2NjAxNA==&mid=2650794988&idx=1&sn=3e18ccf76eaa8005689246511573c41b&chksm=bea63dbd89d1b4abd54f773d3c4f59ac77d55382046006694f29d83a832a99210d2a62780676&scene=21#wechat_redirect)
+* [2018年会演讲：华与华王道2029（上）](http://mp.weixin.qq.com/s?__biz=MjM5MTk2NjAxNA==&mid=2650797174&idx=1&sn=de9dd3e005beb4ec4877fa73ea59c9d6&chksm=bea6222789d1ab3189b679f7349beb46c705c6c4ea3cc14d4346997b853a6c06b1df55d0d3e2&scene=21#wechat_redirect)
+* [华杉2018年会演讲：华与华王道2029（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTk2NjAxNA==&mid=2650797186&idx=1&sn=bfa1e1f629f7f8b1829c6b87c9de0f89&chksm=bea622d389d1abc51b6b0c2dc2e5680234dcddc309c7cdc49c9a524395765b47821376b4134b&scene=21#wechat_redirect)
+* [2019年会演讲：终身事业，终身顾客 | 华与华“磨练2019”年会演讲](https://mp.weixin.qq.com/s/OsgmM61PebXK2v3IMXixkA)
+
+
+## 精选
+
+* [★ 莆田餐厅](https://mp.weixin.qq.com/s/nBLN3UVLV_ANuPrsD2XQbA)
+* [★ 云集精品会员电商](https://mp.weixin.qq.com/s/3H_AER9hFHIEz0Vk3qMeTg)
+* [★ 足力健](https://mp.weixin.qq.com/s/6uwb69khdyL_zTSYsI0zlg)
+* [★ 厨邦：一战而定持续服务，实现从10亿到近50亿的销售增量](★ https://mp.weixin.qq.com/s/kEeOy0sWyphH6J7jCSm96g)
+* [立高：烘焙蓝条纹](https://mp.weixin.qq.com/s/WrloLZnVkVETrlrhUqcfvg)
 * [★ 氪空间](https://mp.weixin.qq.com/s/Xm3o4TXNiGd1IBvMFxWByQ)
 * [★ 厨邦酱油](https://mp.weixin.qq.com/s/1-pmKg6pCn9yofSitREduA)
 * [★ 选绿源，更安全](https://mp.weixin.qq.com/s/KYPtUQvUULjKqgTODV-Yag)
@@ -7,9 +24,6 @@
 * [★ 三品王原汤牛肉粉](https://mp.weixin.qq.com/s/5Jljnzgyes8HRNMX4LhsOA)
 * [★ 先锋电器](https://mp.weixin.qq.com/s/gkriGwtb_nBsWcj0_l-SFw)
 * [★ 360 ](https://mp.weixin.qq.com/s/f_W_f2W2DzwmQol-6eBoew)
-
-
-
 
 
 ## 西贝莜面村
@@ -28,11 +42,15 @@
 * [莆田餐厅](https://mp.weixin.qq.com/s/FLPBPM0vF8FyolAVZrAeaQ)
 * [莆田餐厅](https://mp.weixin.qq.com/s/0MuaiOIdTb4YqFKbEsR6vg)
 * [莆田餐厅](https://mp.weixin.qq.com/s/r1Jr7QZ_g8-dx-y6yjvXtQ)
+* [莆田：红菇节案例解析](https://mp.weixin.qq.com/s/6phmdfySlxKZD2V8rL_y2g)
 
+## 其他
 
-
-
-
+* [厨邦酱油](https://mp.weixin.qq.com/s/1-pmKg6pCn9yofSitREduA)
+* [一亩泉：地方文化母体，夯实地方名牌](https://mp.weixin.qq.com/s/oPINuW3qG30eA9245ce7eA)
+* [鹅，鹅，鹅，鹅夫人](https://mp.weixin.qq.com/s/cpxyWPcr53IlCdSI4MR-Lw)
+* [足力健重阳节品牌活动案例解析](https://mp.weixin.qq.com/s/xtcm2bFH2BZ8j9ZDXxeTcw)
+* [文新信阳毛尖：“信”字罐中秋礼盒设计](https://mp.weixin.qq.com/s/qPJ1CIoghTOaht7xyNX1qQ)
 * [360](https://mp.weixin.qq.com/s/d4II1mFXBz26b0BVSIq6nA)
 * [葵花药业](https://mp.weixin.qq.com/s/TuJex8Akb_Gh99bSBikSQQ)
 * [蓝白电子烟](https://mp.weixin.qq.com/s/sy5Gd6naygfrKvA9Y1G85Q)
