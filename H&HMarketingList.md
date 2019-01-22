@@ -15,7 +15,7 @@
 * [★ 莆田餐厅](https://mp.weixin.qq.com/s/nBLN3UVLV_ANuPrsD2XQbA)
 * [★ 云集精品会员电商](https://mp.weixin.qq.com/s/3H_AER9hFHIEz0Vk3qMeTg)
 * [★ 足力健](https://mp.weixin.qq.com/s/6uwb69khdyL_zTSYsI0zlg)
-* [★ 厨邦：一战而定持续服务，实现从10亿到近50亿的销售增量](★ https://mp.weixin.qq.com/s/kEeOy0sWyphH6J7jCSm96g)
+* [★ 厨邦：一战而定持续服务，实现从10亿到近50亿的销售增量]( https://mp.weixin.qq.com/s/kEeOy0sWyphH6J7jCSm96g)
 * [立高：烘焙蓝条纹](https://mp.weixin.qq.com/s/WrloLZnVkVETrlrhUqcfvg)
 * [★ 氪空间](https://mp.weixin.qq.com/s/Xm3o4TXNiGd1IBvMFxWByQ)
 * [★ 厨邦酱油](https://mp.weixin.qq.com/s/1-pmKg6pCn9yofSitREduA)
