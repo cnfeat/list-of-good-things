@@ -66,7 +66,6 @@ PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个
 ★★★★☆ | 黄集伟|[孤岛客](http://www.huangjiwei.com/blog)|#
 ★★★★☆ | 小强|[小强的时间管理博客](http://www.gtdlife.com)|#
 ★★★★☆ | 王俊煜|[猫窝](http://blog.wangjunyu.net/)|#
-★★★★☆ | 月小刀|[长亭外](http://www.yuexiaodao.com/)|#
 ★★★★☆ | 辉格|[海德沙龙（HeadSalon）](http://headsalon.org/)|#
 ★★★★☆ | 褪墨|[褪墨・时间管理](http://www.mifengtd.cn)|#
 ★★★★☆ | 杨天颖|[Presenting to Win](http://www.arshina.com/)|#
