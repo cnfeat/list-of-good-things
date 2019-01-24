@@ -1,5 +1,7 @@
 # 笨方法品牌描述文档
 
+
+
 ## 笨方法品牌的10大目的
 
 > 1、把东西卖出去
@@ -38,7 +40,7 @@
 
 ## 购买理由
 
-超级口号：=彻底学写作，就用笨方法
+超级口号：彻底学写作，就用笨方法
 
 弃用口号
 认真学写作，就用笨方法
@@ -110,9 +112,18 @@
 
 ![image](http://upload-images.jianshu.io/upload_images/32598-9f3f56304138de05?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+## 历次销售文案
 
+- 待增补
 
 ### 参考
 
 
 [华与华方法合作案例清单](https://github.com/cnfeat/GoodThingList/blob/master/H%26HMarketingList.md)
+
+
+
+### Changelog
+
+- 2019-01-24 修订发布
+- 2019-01-24 初稿
