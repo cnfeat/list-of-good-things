@@ -71,3 +71,7 @@
 * [读客三宝](https://mp.weixin.qq.com/s/66xZBO1m0z1hxpo3vtfEQQ)
 * [斯利安](https://mp.weixin.qq.com/s/ZoSnAgjhFV9LakkgfGwf9Q)
 * [得到猫头鹰](https://mp.weixin.qq.com/s/_XPCOYupy0Z1pa7H3fe2cg)
+
+### Changelog
+
+- 2019-01-24 整理更新 

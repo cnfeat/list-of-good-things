@@ -1,4 +1,4 @@
-# 笨方法品牌描述文档
+# 笨方法品牌使用手册
 
 
 
@@ -112,7 +112,9 @@
 
 ![image](http://upload-images.jianshu.io/upload_images/32598-9f3f56304138de05?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-## 历次销售文案
+## 历次销售文案/海报
+
+![image](http://upload-images.jianshu.io/upload_images/32598-0f79071b870f5c49?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - 待增补
 
