@@ -53,11 +53,9 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 搜索「笨方法学写作」，可查看我的刻意练习写作 4 年多的故事。
 
-本课程已更新超 10W+ 字，已涨价一次，目前每周持续升级， 399 元。
+本课程已更新超 10W+ 字，已涨价一次，目前每周持续升级， 未来准备升价至 399 元。
 
 地址：http://t.xiaomiquan.com/ufe23vv
-
-![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg?imageMogr2/thumbnail/!30p)
 
 
 ### 博客/公众号：笨方法学写作
@@ -68,7 +66,17 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 地址：www.cnfeat.com 
 
-![](http://openmindclub.qiniudn.com/omt/ProductList03.jpg?imageMogr2/thumbnail/!30p)
+
+
+
+# 笨方法学写作 相关链接
+
+[笨方法学写作 官网](http://www.LearnWritingTheHardWay.cn)
+[笨方法学写作 博客](http://www.cnfeat.com)：
+[笨方法学习故事](http://story.learnwritingthehardway.cn/)
+[笨方法文集](http://book.learnthingsthehardway.com/)
+[卡片创作文集](http://card.learnwritingthehardway.cn/)
+[笨方法学写作参考书单](https://www.douban.com/doulist/45064751/)
 
 
 ## 最后
@@ -82,6 +90,7 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 ## ChangeLog
 
+- 2019-02-23 更新 笨方法学写作 文集序列
 - 2018-12-22 更新
 - 2017-08-09 增补电报群
 - 2017-07-11 增补我的产品列表
