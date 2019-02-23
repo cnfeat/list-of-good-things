@@ -15,14 +15,7 @@ PS：我的原创作品列表：http://www.cnfeat.com/about/
 
 为你精选 100 个订阅源，如果你懒得甄选，有这100个足矣。
 
-- [文件地址](https://github.com/cnfeat/GoodThingList/blob/master/100Subscriptions.xml)
-- [下载地址](https://github.com/cnfeat/GoodThingList/archive/master.zip)
-	+ 解压得出`100Subscriptions.xml`
-
-使用方法：在阅读器导入即可
-
-
-PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个订阅源](http://www.inoreader.com/bundle/0014cd6377f1) 订阅整个组合包。
+如果你正在用 inoreader ，可以直接登录后，点击[好物·100个订阅源](http://www.inoreader.com/bundle/0014cd6377f1) 订阅整个组合包。
 
 ## 好·博客列表
 
@@ -32,27 +25,19 @@ PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个
 ----- | ----- | ------ | -----
 开智社群| #|#|#
 ★★★★☆ | 阳志平|[阳志平的网志](http://www.yangzhiping.com)|OMC
-★★★★☆ | 安猪|[安猪](http://anzhu.net/)|OMC
 ★★★★☆ | 大妈|[#是也乎#ZoomQuiet](http://blog.zoomquiet.io)|OMC
 ★★★★☆ | 吕小荣|[吕小荣的笔记](http://mednoter.com)|OMC
-★★★★☆ | OliveDing|[Swordi Media Lab](http://swordi.com)|OMC
 ★★★★☆ | TonyYet|[Accentuate the Positive](http://www.tonyyet.com)|OMC
 ★★★★☆ | Yixuan|[Yixuan](http://yixuan.li/)|OMC
-★★★★☆ | Danny Yu|[Life Growing](http://www.lifegrowing.me/)|OMC
-★★★★☆ | Caos|[Caos blog](http://blog.caos.me/)|OMC
 ★★★★☆ | 00|[00's Adventure](http://www.uegeek.com/)|OMC
-★★★★☆ | helenysli|[且行且珍惜](http://www.helenysli.com/ch/)|OMC
-★★★★☆ | 轩铭|[不止读书](http://www.buzhinote.com/)|OMC
+
 博客| #|#|#
 ★★★★☆ | 傅国涌|[笔底波澜](http://blog.sina.com.cn/fuguoyong)|#
 ★★★★☆ | Yurii|[乱象，印迹](http://www.luanxiang.org/blog)|#
 ★★★★☆ | 刘未鹏|[Mind Hacks](http://mindhacks.cn)|#
 ★★★★☆ | 阮一峰|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)|#
-★★★★☆ | 萧秋水|[逍遥游](http://www.xiaoqiushui.com)|#
 ★★★★☆ | 冯大辉|[DBA Notes](http://dbanotes.net/)|#
 ★★★★☆ | Meditic|[Startup Game](http://meditic.com)|#
-★★★★☆ | 同人于野|[学而时嘻之](http://www.geekonomics10000.com)|#
-★★★★☆ | 苏杰|[人人都是产品经理](http://iamsujie.com)|#
 ★★★★☆ | 熊节|[透明思考](http://gigix.thoughtworkers.org)|#
 ★★★★☆ | 卢昌海|[卢昌海个人主页](http://www.changhai.org)|#
 ★★★★☆ | zhengziying|[flow with the life](http://zhengziying.com)|#
@@ -60,7 +45,6 @@ PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个
 ★★★★☆ |张悦悦|[一桌一椅一世界](http://dajoy.blogbus.com)|#
 ★★★★☆ | 人月神话|[人月神话](http://blog.sina.com.cn/cmmi)|#
 ★★★★☆ | 魏武挥|[扯氮集](http://mednoter.com)|#
-★★★★☆ | 师北宸|[Digital Meme](http://shibeichen.com)|#
 ★★★★☆ | 狗熊|[狗熊有话说](http://www.iclubkm.com/bearbigpodcast)|#
 ★★★★☆ | 小赖子|[小赖子的英国生活和资讯](https://justyy.com/)|#
 ★★★★☆ | 黄集伟|[孤岛客](http://www.huangjiwei.com/blog)|#
@@ -86,7 +70,6 @@ PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个
 ★★★★☆ | 李参|[李参](http://www.lishen.me/)|#
 ★★★★☆ | 谭智军|[土木坛子](https://tumutanzi.com/)|#
 ★★★★☆ | 哲尔夫|[哲尔夫的博客](http://www.zeove.com/)|#
-★★★★☆ | 亲爱的糖|[亲爱的糖](http://deartang.com/)|#
 ★★★★☆ | 五岳散人|[五岳散人](http://blog.sina.com.cn/wysr2007)|#
 ★★★★☆ | 东东枪|[枪·东东枪的枪](http://thisisdongdongqiang.com/)|#
 ★★★★☆ | Tim Yang|[后端技术](http://timyang.net/)|#
@@ -97,9 +80,6 @@ PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个
 ★★★★☆ | Huiris|[Huiris's Blog](http://huiris.com/)|#
 ★★★★☆ | 余弦|[[EVILCOS](http://evilcos.me/)|#
 ★★★★☆ | 程亦超|[dreamsome](http://dreamsome.org/)|#
-★★★★☆ | 师北宸|[Digital Meme](http://shibeichen.com/)|#
-★★★★☆ | 冯大辉|[闲思录](http://dbanotes.net/)|#
-★★★★☆ | 春田冰河|[Chun Tian (binghe)](http://tianchunbinghe.blog.163.com/)|#
 ★★★★☆ | 郑伊廷|[XDite](http://blog.xdite.net/)|#
 ★★★★☆ | 王佩|[白板报 ](http://www.baibanbao.net/)|#
 ★★★★☆ | 比目鱼|[比目鱼博客](http://www.bimuyu.com/blog/)|#
@@ -113,14 +93,11 @@ PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个
 ★★★★☆ | 阅乎|[阅乎](http://yuehu.io/)|#
 ★★★★☆ | 读写人|[读写人](http://www.duxieren.com/)|#
 ★★★★☆ | 可能吧|[可能吧](https://kenengba.com/)|#
-★★★★☆ | 大家|[腾讯大家](http://dajia.qq.com/)|#
 ★★★★☆ | IPN|[IPN](https://ipn.li/)|#
 ★★★★☆ | 中国三明治|[中国三明治故事库](http://story.china30s.com/)|#
-★★★★☆ | 利器|[利器](http://liqi.io/)|#
 ★★★★☆ | Type is Beautiful|[Type is Beautiful](http://www.typeisbeautiful.com)|#
 ★★★★☆ | 少数派|[少数派](http://sspai.com/)|#
 ★★★★☆ | 湾区日报|[湾区日报](https://wanqu.co/)|#
-★★★★☆ | 第一内容工场|[第一内容工场](http://www.zhengfawang.com/)|#
 ★★★★☆ | 上海书评|[上海书评](http://www.rssfull.net/rss/shanghaishuping.xml)|#
 ★★★★☆ | 南方周末|[南方周末](http://www.rssfull.net/rss/nfzmtop10.xml)|#
 ★★★★☆ | 纽约时报中文网|[纽约时报中文网](http://www.rssfull.net/rss/)|#
@@ -135,18 +112,18 @@ PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个
 ★★★★☆ | 纽约时报中文网热门图集|[纽约时报中文网热门图集](http://www.rssfull.net/rss/nytimesphoto.xml)|图片集
 ★★★★☆ | Leica中文摄影杂志|[Leica中文摄影杂志](http://www.leica.org.cn/)|高质量摄影集
 我的博客| #|#|#
-★★★★☆ | 陈素封|[独立写生](http://www.cnfeat.com)|博客
-★★★★☆ | 陈素封|[卡片创作通讯](http://www.mesule.com)|博客
+★★★★☆ | 笨方法学写作|[笨方法学写作](http://www.cnfeat.com)|博客
+
 
 ## 好·知乎专栏清单
 
 
 评分   |  作者 | 名称    | 备注 
 ----- | ----- | ------ | -----
-★★★★☆ | 采铜|[开放的智力](http://zhuanlan.zhihu.com/intelligence)|#
+
 ★★★★☆ | 极光日报|[极光日报](https://zhuanlan.zhihu.com/jiguang-daily)|#
-★★★★☆ | 知乎电子书|[[知乎电子书](https://zhuanlan.zhihu.com/Weekly)|#
-★★★★☆ | 待补增|[待补增](http://www.cnfeat.com)|#
+★★★★☆ | 何瑫的写作工坊|[何瑫的写作工坊 - 知乎](https://zhuanlan.zhihu.com/hetao)|#
+
 
 
 
@@ -166,15 +143,13 @@ PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个
 
 评分   |  作者 | 名称    | 备注 
 ----- | ----- | ------ | -----
-★★★★☆ | @阳志平1949|[@阳志平1949](http://sinacn.weibodangan.com/user/2074315842/)|#
-★★★★☆ | @OliverDing|[@OliverDing](http://sinacn.weibodangan.com/user/1667781677/)|#
-★★★★☆ | @崔翔宇_采铜|[[@崔翔宇_采铜](http://sinacn.weibodangan.com/user/1933460273/)|#
-★★★★☆ | 非言语|[@非言语](http://sinacn.weibodangan.com/user/2053035235/)|#
-★★★★☆ | @陈虎平|[@陈虎平](http://sinacn.weibodangan.com/user/2201566133/)|#
-★★★★☆ | @王烁|[[@王烁](http://sinacn.weibodangan.com/user/1640307671/))|#
-★★★★☆ | @纯银V|[@纯银V](http://sinacn.weibodangan.com/user/1134424202/)|#
-★★★★☆ | @卢昌海|[@卢昌海](http://sinacn.weibodangan.com/user/2118883217/)|#
-★★★★☆ | 待补增|[待补增](http://www.cnfeat.com)|#
+★★★★☆ | @华杉2009|-|#
+★★★★☆ | @卢昌海|-|#
+★★★★☆ | @李笑来|-|#
+★★★★☆ | @田春冰河|-|#
+★★★★☆ | @一天世界IPN|-|#
+
+
 
 ## 好·微信公众号专栏清单
 
@@ -193,14 +168,13 @@ PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个
 ★★★★☆ | 霍炬|[歪理邪说](http://weixin.sogou.com/gzh?openid=oIWsFt3qoq0iKzqXrPeKhIujXtow&ext=3Q58_wfJO19FCynn6woLlGuXqi3LyN5yJ4bRWzmKoZKrXiLetbem6GgEcH5SB_T9)|#
 ★★★★☆ | joey|[老鹰说](http://weixin.sogou.com/gzh?openid=oIWsFtwpx4WaL2AzuAe1OmSHfB5Q&ext=3Q58_wfJO1_UpM45fU9gqc50y16N5MujHVkhbwSgWuinqZqc5GyIcwGJgRqcxw58)|#
 ★★★★☆ | 李笑来|[学习学习再学习](http://weixin.sogou.com/gzh?openid=oIWsFt6EIlPo4HTI9rVCO4Qr60Hc&ext=3Q58_wfJO1_0nmPYkCWFhIVWg9gxKadaEL8pKcbCI6yZ8PviM3fIbk6W2g0u408w)|一生只有一个职业：学生
-★★★★☆ | 阑夕|[阑夕](http://www.cnfeat.com)|#
-★★★★☆ | 哈佛商业评论|[哈佛商业评论](http://www.cnfeat.com)|#
-★★★★☆ | 笔记侠|[笔记侠](http://www.cnfeat.com)|#
-★★★★☆ | 开智学堂|[开智学堂](http://www.cnfeat.com)|#
+★★★★☆ | 阑夕|-)|#
+★★★★☆ | 哈佛商业评论|-|#
+★★★★☆ | 笔记侠|-|#
+★★★★☆ | 开智学堂|-|#
+★★★★☆ | 笨方法学写作|-|#
 
 
-
-- [30个值得推荐的文化、读书类微信公众号](http://www.bimuyu.com/blog/archives/304356869.shtml)
 
 ## 参考文章
 
@@ -243,30 +217,17 @@ PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个
 
 ## 推荐订阅方法
 
-+ 微信公众号
-	+ [今天看啥](http://www.jintiankansha.me/account/signup?invite_codeOJEFUUDLJR)
+- [指南 | RSSHub](https://docs.rsshub.app/#javbus)
 - 简书
 	- [Jianshu RSS](http://jianshu.milkythinking.com/)
 	+ 作者：[MilkyThinking](http://milkythinking.com/)
 - 知乎专栏
 	+ 支持直接订阅
-- [搜狗微信搜索](http://weixin.sogou.com/)
-
-## 自愿付费
-
-有价值的事物，值得付出时间，也值得付出金钱。
-
-喜欢文章的人可自愿付费，当然也可以不付费。
-
-
-<center>
-    <p><img src="http://openmindclub.qiniudn.com/omt/WechatPay.jpg" align="center"></p>
-</center>
-
 
 
 ## 更新
 
+- 2019-02-23 更新订阅清单
 - 2017-07-14 大量更新订阅清单
 - 2017-07-11 更新微信公众号 RSS 订阅工具网址
 - 2016-01-24 23:02:34 补增100个订阅源
