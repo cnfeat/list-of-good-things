@@ -1,11 +1,224 @@
-# 好·应用清单
+# 年度盘点：Mac 生产力应用清单
+
+## 什么是生产力应用
+
+所谓生产力应用，就是用来工作、协作、输入、输出、生产、创作的应用，按照不同的系统和平台，可以分为 Mac、iOS 和 Win 平台，自今天开始陆续更新我与这些应用的故事。
+
+个人对于应用的最大需求是文字内容的生产，清单应用按个人使用频率与生产贡献排序。
+
+本文于 2018-12-13 以卡片形式更新，首发笨方法学写作知识星球，2019-02-23 更新完毕集合成文。
+
+## Mac 的工具哲学
+
+如无意外，我会一直使用 Mac 来创作，因为 Mac 自有一套工具哲学，系统自带创造属性，就连附带其上的应用都会感染它的气息，一旦熟练操作之后，你会不自觉爱上甚至依附上 Mac 的创作生态，这种独特的体验让你在其他系统平台都无法体验到，你会自然沉浸，专注创作，重塑你的工具观。
+
+「优秀的工具会最终让你认识到美的存在和价值，让你最终体察到自己的内心，创造出一些好的东西。」
+
+优秀的开发者本身具备良好的工作习惯，他们会不自觉地在工具注入他们对工具的理解，你使用他们创造出来的工具，你也会在长期使用操作中潜移默化。
+
+所以，你在选择一种工具的同时，你也在选择一种程序设计思想。
+
+我在选择工具时，往往会选择基本功能可以远远击败其他同类功能的，一旦选定，就会持续使用它的基本功能，用到极致，或能深入触碰创造者的设计初衷，这会让你受益匪浅。
+
+例如我选择功能单一的 Workflowy ，而不是功能多样的 幕布，表面理由是 Workflowy 的基本功能做得比幕布出色，但更深层的理由是创造者对清单的理念，前者的创造理念是 Make Lists, Not War 和List Maker With Superpowers ，后者只是功能的堆砌，有着清单外壳，但里头依然是沉重的Word文档思维，清单轻盈整洁的优点丧失殆尽。
+
+所谓「工具的生产力」是一个相互促进的过程，你使用工具来创造，工具也会反过来塑造你的工作习惯和工具观，用认知科学来解释就是「具身认知」，工具不是大脑的延展，而是大脑的肉体本身。
+
+最后，愿你选择的工具，也会成为你的大脑。
 
 
-## Sublime 
 
-还是觉得 Sublime Text 搭配 Markdown 的书写体验最佳。
+## 01 Workflowy
 
-分享我的Sublime Text 插件：
+文字生产第一工具，持续使用三年多，写下无数文字，你在博客、豆瓣、简书、公众号、专栏、 知识星球、 甚至朋友圈内的文字几乎我用 Workflowy 写下的。
+
+具有以下优点：
+
+1）跨平台：Mac、iOS、Win、Android、网页，样样齐全，无缝切换，去到任意一台电脑，我只需要打开 www.workflowy.com 登录，我写过的所有文字都能在上面迅速找到；
+
+2）永久备份：Workflowy 的一个强大无比功能就是 Gmail 备份，它能够将你每天的修改记录每天发送到你注册邮箱中，发送的修改记录如同 GitHub 文本记录几乎一致，完整得可怕。
+
+3）其他关于 Workflowy 的使用理由、创作习惯、工具价值观，我在这里就不再赘述，我在知识星球写过一篇 3000+ 字的详细使用指南：《卡片写作工具箱（2）：Workflowy》，大家可以仔细看看：
+
+[卡片写作工具箱（2）：Workflowy](https://t.zsxq.com/fImAEae)
+
+
+### P.S.
+
+最近使用频繁在 Mac 与 Win 系统中切换，如果我使用的生产工具是 Mac 的备忘录或者是 Mweb，估计我会十分抓狂，但幸好是 Workflowy，烦恼少了无限多。
+
+现在我最常用的是 Workflowy 的 desktop 客户端，你可以在这里下载：https://workflowy.com/downloads/mac/
+
+使用过国内其他模仿 Workflowy 的工具，例如幕布、dynalist，它们都号称自己做出多少改进，但它们做出只是空壳，缺少了灵魂。
+
+## 02 小鹤双拼 + 鼠须管输入法
+
+小鹤双拼，准确来讲不是一个应用，是拼音输入法的快捷改良，只需记住一张简单的编码表，所有汉字就都可以敲两个字母解决，一次学会，电脑、手机都可以使用，打字效率大大提高，终身受用。
+
+目前几乎所有主流输入法都支持双拼，只需在拼音方案选择双拼，再选择小鹤双拼即可，即使是我现在使用的小众输入法——鼠须管输入法，也支持双拼。
+
+为什么推荐小鹤双拼？原因很简单，因为当时身边的人都在用小鹤双拼，也没有人这个方案不好用，我当时就想身边人用得多，自己如果有什么问题也可以问他们——但其实多虑了，学习起来根本不会有什么问题，我个人高频使用过两周后就完全习惯了。
+
+相关双拼科普文章参见：
+
+[他做了一个双拼练习平台，想让高效的双拼输入法不再小众_36氪](https://36kr.com/p/5114075.html)
+
+如果你也想使用鼠须管，可以直接使用我的设置，猛击这个地址：
+https://github.com/cnfeat/Rime
+
+配色方案为简洁明快的 水蓝/waterblue
+
+Mac 系统下，安装软件后直接复制到 /Library/Rime ，然后 Deploy 即可。
+
+## 03 科学上网
+
+准确来讲，科学上网不是一种应用，但必须通过应用实现，具体是哪种应用不重要，重要的是你可以通过它来提升你的生产力。
+
+科学上网之后 ，你可以更快更准确地找到你想要的东西、你可以看到世界一流创作者的思考与作品、你可以遇见更多开放自由的现象与想法……你要知道，这个世界上还有一块思想自由的辽阔之地，那是你要去的地方，一旦抵达，即使你在那里什么也不做，你也会感到快乐。
+
+建议购买付费工具实现科学上网，具体工具我在这里不做推荐，也不做介绍，更不会回答任何相关问题，请自行折腾解决。
+
+## 04 MWeb
+
+使用过多种 MarkDown 工具，最后选定 MWeb ，外观漂亮，使用方便，更重要是默认的预览格式好看，笨方法学习周报经常多平台发布，支持 MarkDown 的平台可以自己复制粘贴，不支持的平台，例如简书、豆瓣、公众号等，我往往是直接复制预览粘贴即可，快捷方便。
+
+现在我多使用 MWeb 来编辑，而不是生产——将 Workflowy 写好的卡片复制粘贴到 MWeb 编辑成为 MarkDown 格式。
+
+备份采用双重保险：1）Publishing 到 WizNote；2）本地备份三个地方，其中一份备份到坚果云。
+
+
+## 05 1Password
+
+据说阿里巴巴曾经给所有负责安全的员工做过一个测试：发给员工一个高仿的阿里巴巴钓鱼网站，登录界面与真实一致，无论员工是否登录成功，密码是否正确，凡是检测有登录动作则一律视为测试不过关，要求参加相关安全培训。
+
+如果此时他们都用 1Password，情况就不一样了，因为这个密码管理软件会记住网站和密码，如果看到日常登录的网站居然没有填入对应的密码，那就肯定是出现异常了，仔细检查之后一定会发现问题。
+
+除了安全防范，这个软件更强大的功能是密码管理。
+
+你是否遇过这样的问题：1）帮公司注册公用账号和密码，隔三天就忘记了；多年前注册过邮箱和QQ账号，试遍了所有可能的密码，都无法登录，连密码提示问题都忘记了；3）大部分网站的账号和密码都是同一个，只要一个被盗，你的所有账号都有可能被盗……
+
+用过 1Password，以上问题几乎不是问题——当你注册账号密码，它就会提醒你将相关信息录入 1Password，一旦录入，你可以随时将其调出，登录不同的网站，你可以使用 1Password 生成随机密码，安全性大大提高。
+
+使用三年多，我已经在 1Password 录入了 405 条密码，其中包括最重要的邮箱、银行卡密码、豆瓣、微博、Twitter、淘宝、支付宝……一个密码记住所有密码，这种感觉很安心。
+
+## 生产力应用清单 06 Alfred
+
+你现在能看到 Alfred 的搜索结果几乎都有「效率神器」这个关键词，它确实不负这个称号。用过这个软件三年，我用 Alfred 只用三个功能，按使用频率排序如下。
+
+### 剪贴板历史
+
+之前用过 Paste 等粘贴版图形软件，后来发现  Alfred 自带有粘贴板功能，快捷键呼出，启动快，界面简洁，极其好用。
+
+### 本地文件搜索定位
+
+Mac 的文件系统与 Win 不一样，Win 系统有桌面系统设置会让你不自觉将文件分门别类，所以你要找文件，一般的动作往往是： D 盘 > 工作文件 > 公司介绍 > 对外介绍 > 公司介绍-最终版本。 
+
+但如果你在 Mac 系统，你找不到桌面，你的所有文件都只能放在系统盘，初始文件少你还可以在根目录用肉眼搜索，到后期你就会被动学会使用 Mac 系统内强大的搜索功能。
+
+而 Alfred 就是搜索功能的强力增强工具，除了可快速搜索，还可以快速定位文件，这个功能特别好用，特别是要发送文件给别人的时候，比那种通过目录查找的方式快不知道多少倍。
+
+ 优秀的系统或工具大多是「搜索重于目录分类」，例如 Alfred、Mac、Workflowy 等等，所以我在《笨方法学写作》的「卡片写作八原则」篇就给出两个很重要卡片写作的建议：1）生产胜于管理；2）搜索胜于分类。
+ 
+### 快捷网页搜索
+
+例如你在 Alfred 搜索框键入 「bk 经验的疆界」，你可以快速打开豆瓣图书「经验的经验」的搜索结果，以下是我常用的几个自定义搜索字符串：
+
+- 豆瓣图书搜索 > bk
+    - https://book.douban.com/subject_search?search_text={query}&cat=1001
+- 豆瓣电影搜索 > mv
+    - https://movie.douban.com/subject_search?search_text={query}&cat=1002
+- 知乎搜索 > zh
+    - https://www.zhihu.com/search?type=content&q={query}
+- 微信搜索 > wx
+    - http://weixin.sogou.com/weixin?type=2&query={query}
+- 淘宝搜索 > tb
+    - http://s.taobao.com/search?q={query}
+- google 翻译
+    - https://translate.google.cn/#zh-CN/en/={query}
+- 什么值得买
+    - https://search.smzdm.com/?c=home&s={query}
+- 阳志平博客搜索
+    - https://www.google.com/search?q=site:http://www.yangzhiping.com/+{query}
+
+## 07 Notion
+
+Notion 是子弹笔记的加强版，集笔记、知识库、任务管理于一身，但我只看中的是它的清单页面，尤其适合用来长期清单任务。
+
+短期创作任务，时间在一两周之内可以完成的，我一般都可以使用 Workflowy 操作，但如果是长期任务，半年或三五年以上的，就不太适合用 Workflowy 来操作了，因为 Workflowy 本质就是卡片，卡片适合快速专注，列上半年或三五年的任务很容易沉没了，所以当我整理出长期任务之后，我就会写在一张白板上——复制在 Notion上，时不时去看看，提醒去完成。
+
+一句话总结：Workflowy 做任务，Notion 做战略。
+
+目前，我的使用 Notion 来做的事情主要有三件
+
+1）产品计划：我想要做什么产品？我的目标是什么？我的行动计划是什么？
+
+2）主题阅读清单：我已经在上面列好了够我读上五年的书单了。
+
+3）元卡：写下原则清单和 Stop Doing List ，不停增补，持续升级。 
+
+
+## 08 aText
+
+某日下午，桌面微信收到好友验证，顺手通过之后，对方发来信息：你好，请问可以简单介绍一下笨方法学写作课程吗？
+
+我随即敲下「;jj」，聊天窗口便出现这么一段：
+
+「你好，感谢你关注笨方法学写作，这个课程简介可能会帮到你：http://t.cn/R1Ompu7  如果在这里没有找到你想要的答案，可直接提问。」
+
+这就是 aText 的神奇之处，可以将你常用长语句自定义为特定短字符——当你敲出短字符，aText 便会起作用，将字符快速替换成你指定的长语句，提高你的文字输入效率。
+
+例如以上我就是用「;jj」来自定义，定义规则说明如下：
+
+「;」是唤醒指令，用来间隔唤醒 aText，其理由跟你唤醒智能助理的「小爱同学」或「Hey，Siri」一样，「;」这个唤醒指令你可以随意更换，我用「;」是因为我比较少用，而且敲起来也比较方便快捷。当然你可以不用唤醒指令，不用的后果容易误触发。
+
+「jj」是我自定义的「简介」的首字母。
+
+一旦你明白了 aText 的使用原理，你可以欢快地使用起来了，例如
+
+常用语句：「;gw」：笨方法学写作官网： http://www.learnwritingthehardway.cn/
+
+地址：「;add」：广东省珠海市XXX
+
+邮箱一：「;a@q」：你的 QQ 邮箱
+
+邮箱二：「;a@g」：你的 Gmail 邮箱
+
+还可以自定义纠正你的输入错误，例如「github」替换成「Github」，「Iphone」替换成「iPhone」等等
+
+更厉害是，aText 还支持自定义动态词句，例如当天日期，敲入「;sj」显示当天日期「2019-01-05」，敲入「;rq」显示「2019年1月5日」
+
+## 09 Popclip
+
+Popclip 是一款文本选择辅助工具，你选中某段文字之后，Popclip 就会自动弹出一横排选项，例如搜索、复制、粘贴、排序、翻译……
+
+我使用频率最高的功能与场景如下：
+
+1、选定文本编辑器的链接，Popclip 打开链接
+2、选定浏览器中的某个词组，Popclip 打开 Google 默认搜索
+3、觉得 Google 搜索不够本土，再次选定，打开百度搜索
+4、选定某个单词，Popclip 打开欧路词典翻译
+5、选定某段文字，Popclip 自动显示字数
+6、选定多行文字，Popclip 为其制作MarkDown 格式的无序列表
+7、选定微信或博客的长链接，Popclip 自动生成短链接
+
+插件清单：[PopClip Extensions](https://pilotmoon.com/popclip/extensions/)
+
+## 10 Sublime Text
+
+在 MWeb 出现之前，Sublime Text 是我 Markdown 书写主力工具，优点是启动快，扩展丰富。高频使用期间，各种快捷键熟记在胸，一顿操作猛如虎，围观人群惊叹不已。
+
+如今 MWeb 顶替上位，Sublime Text  变成了文本编辑器，各种在 GitHub 操作的文件：md、css、yaml、CNAME、html、json 等都交给 Sublime Text 了。
+
+推荐插件：
+
+- MarkdownEditing
+- Markdown Extended
+- Default File Type
+- Clickable URLs
+- Markdown Preview
+- SideBarFolders
+- SyncedSidebarBg
+- WordCount
 
 ### 安装插件方法
 
@@ -49,74 +262,70 @@
 - [如何优雅地使用Sublime Text | 晚晴幽草轩](http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/)
 - [近乎完美的 Markdown 写作体验 - Sublime Text 3 + OmniMarkupPreviewer](http://macplay.leanote.com/post/%E8%BF%91%E4%B9%8E%E5%AE%8C%E7%BE%8E%E7%9A%84-Markdown-%E5%86%99%E4%BD%9C%E4%BD%93%E9%AA%8C-Sublime-Text-3-OmniMarkupPreviewer)
 
+## 11 Eagle
+
+Eagle 是一款图片管理软件，被称为图片界的印象笔记。
+
+起初由于工作需要，要做一篇珠海航展 2018 飞机清单文章，需要汇总各种飞机的图片与飞机，发现种种不便——想下载公众号图片、豆瓣相册图片，需要改链接、截图、另存为……存档到本地还要筛选裁剪等等，过程重复繁琐。
+
+无意刷到微博看到好友设计师在用 Eagle ，产品介绍 BAT 产品设计也在用，就毫不犹豫购买了，此后也只使用其基本功能——收集与管理图片，配合 Chrome 插件，所有需要下载的图片只需鼠标一拖就搞掂，此后图片收集处理的效率大大提高。
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/HRoY0QT1GiaahMrYQntYGXasicK9hN0AuG98ShuicCW6ia5ibsDEEwGdcCFkw1ucBQ3tBh7Oru2P63QYaNo6RYTic27Q/0?wx_fmt=gif)
+
+再设置本地的图片库在云盘上，这样图片备份也轻松完成了。
+
+产品官网：https://eagle.cool/
+
+产品更多用法：https://cn.eagle.cool/blog/tips-and-tricks
 
 
+## 12 Simplenote
 
-## Manico
+有一段时间，我需要经常在 Mac、Win 与手机（iOS）平台切换工作，需要在一个地方写作，然后在三个平台调用，尝试了多种笔记工具，优缺点如下：
 
-- [简洁、高效、易用，Mac App 快速启动及切换工具：Manico 2.0 - 少数派](http://sspai.com/32457)
-	+ 定义快捷键后，切换窗口飞飞快！
-	- 备用：[Snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)及其[使用方法](http://www.pgnan.com/2194.html)
+1）WorkFlowy：长期的卡片写作工具，不适合编辑整理成文章
 
-## PopClip
+2）石墨文档、腾讯文档：存储方式以文档为单位，搜索和组织略比较散乱，个人将其定位为临时/协作文档
 
-我的 PopClip 插件清单
+3）为知笔记、印象笔记：体感较重，长期作为网摘工具，不太适合存放个人工作文档
 
-- BulletList
-	+ 划选编辑器的文字，自动无序列表
-	+ Option (⌥) 划选后自动变成有序列表
-	+ Command (⌘) 划选后恢复成无序列表
-- WebMarkdown
-	+ 划选网页的文字，转换成 Markdown 格式并自动复制
-	+ **编辑公众号必备工具，强烈推荐**
-- [URL shortener](https://github.com/pilotmoon/PopClip-Extensions)
-	+ 强烈推荐，一键将长链接缩短成短链接
-- taobao、百度、Note
-	+ 看着用就好
+觉得找一款新笔记工具较为合适，尝试过 Simplenote 之后觉得十分趁手，简洁免费，在 Mac、Win 平台界面几乎一模一样，同步速度一流，iOS 上体验顺滑如原生备忘录。
 
 
-参考资料
+##  13 Klib
 
-- 参考 Markdown 用户插件清单下载 [Brett's PopClip Extensions](https://github.com/ttscoff/popclipextensions)
-- 官方[PopClip Extensions](https://pilotmoon.com/popclip/extensions/) 
-- [没那么简单：PopClip for Mac - 少数派](http://sspai.com/25483)
+自使用卡片阅读法读书，现在读书至少三遍：第一遍快速阅读，观其大略，圈画要点；第二遍只读要点，消化要点；第三遍写读书卡片，将卡片融入自己的写作产品和卡片库中去。
+有了 Kindle 之后，第二遍的前期工作就主力靠 Klib 来完成了。 
 
+Klib 是一款 Kindle 读书标注导出工具，我的使用场景如下：
 
-## [Monosnap](https://itunes.apple.com/us/app/monosnap/id540348655?mt=12&ls=1)
+1）Kindle 读完一本书，使用 Klib 导出这本书的所有读书标注
 
-截图良心工具
+2）将所有读书标注复制到 Workflowy，等于将原材料从菜市场转移到了厨房
 
-- 可自定义命名
-- 后期调整，一应俱全
-
-## 鼠须管输入法
-
-如果你使用的输入法刚好也是小鹤双拼，那么安装后直接复制到 /Library/Rime ，然后 Deploy 即可。数据地址：[cnfeat/Rime](https://github.com/cnfeat/Rime)
-
-待解决问题：
-
-- 中英文切换字符标识底色和前景色都是白色的，不明显
-- 全角和半角如何切换？
-- 中英文输入不顺畅
-- 中英文输入 按下enter是全角的
-
-参考链接
-
-- [安装及配置 Mac 上的 Rime 输入法——鼠鬚管 (Squirrel) | 明无梦](http://www.dreamxu.com/install-config-squirrel/)
-- [Superoutman/Rimeime: 我的鼠须管输入法配色方案](https://github.com/Superoutman/Rimeime)
-- [我的鼠鬚管自定义 - Archives - 知乎专栏](http://zhuanlan.zhihu.com/lianghai/19599206)
-- [中国传统色彩颜色表(Chinese traditional colors ) 一览好文 ylbook.com](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
+3）在 Workflowy 中加工/创造/转移/修改，将原材料分类加工，大量的原材料不会立刻做成美食，而是有序放在大脑记忆货架中，只要 20% 材料写成读书笔记。
 
 
-## atext
+## 14 Inoreader
 
-一款Mac上的文字快速输入替换工具，谁用知道。
+如果你想第一时间看到某个公众号的更新，微信关注它就好了，但是如果你想看到某个博客、网站、微博、简书、知乎专栏的更新呢？
+
+此时你就需要 RSS 服务了，而市面上比较好的 RSS 服务平台就是Inoreader 。
+
+Inoreader 使用手册推荐我多年前写的这篇：
+[我为何将所有微信订阅号都取关了？ - 笨方法学写作](https://www.cnfeat.com/blog/2016/01/19/wechat-subscription/)
+
+新手可以使用我制作 100 个[订阅源懒人包](https://github.com/cnfeat/GoodThingList/blob/master/GoodBlogList.md)。
+
+进阶可以使用 [RSSHub](https://docs.rsshub.app/) ，稍微用心看看官方文档，学会一点点的技术操作，你就自定义出你的私人订阅源。
+
+## 其他
 
 
-## 小历
-
-短小精悍的日历工具，带农历，免费。
-
+- [小历](http://ioszen.com/)：短小精悍的日历工具，带农历，免费。
+- [Manico](https://sspai.com/post/32457)：简洁、高效、易用，Mac App 快速启动及切换工具
+- [Bartender](https://sspai.com/post/40832)：Mac 菜单栏简化工具
+- [Monosnap](https://monosnap.com/welcome)：截图良心工具，可自定义命名，后期调整，一应俱全
 
 ## 安装应用设置没有「任何来源」选项的解决办法
 
@@ -131,8 +340,6 @@
 
 2017-06-20 购买 U2715H 显示器，2K 分辨率，发现默认显示字体偏小，于是根据此文章：[新MacBook Pro连接并使用SwitchResX开启2K HiDPI ](https://blog.xingoxu.com/2016/12/config-switchresx-and-2khidpi/)开始设置
 
-
-
 - 下载 SwitchResX
 - 关闭 SIP 
 	- 重启电脑，并在开机声音响起后按住command+R进入recovery mode
@@ -142,16 +349,8 @@
 	- 如果你想要设置分辨率是 2048 * 1152 ，可以设置成 4096 * 2304
 	- 如果你想要设置分辨率是 1920 * 1080 ，可以设置成 3840 * 2160
 
-
-## 其他参考
-
-- [the_room_of_exercises/Best-App-for-Mac.md at master · wjp2013/the_room_of_exercises](https://github.com/wjp2013/the_room_of_exercises/blob/master/guides/Best-App-for-Mac.md)
-
-
-
 ### ChangeLog
 
+- 2019-02-23 大量更新
 - 2017-06-26 增补 U2715H 显示器设置
 - 2017-05-04 增补 atext、小历
-
-
