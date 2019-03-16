@@ -84,7 +84,12 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 更多好物清单介绍，请点 [Issues · cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList/issues)
 
+## 赞赏
 
+
+如果内容对你有帮助，那就买盒卡片助我继续分享吧 (＾－＾)
+
+![](https://s2.ax1x.com/2019/03/16/AZUnVU.png)
 
 
 ## ChangeLog
