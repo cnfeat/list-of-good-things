@@ -14,6 +14,9 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 
 假如它不能满足以上的三个条件，Bruce Sterling的建议是，毫不犹豫地丟弃它。
 
+
+![VR2C24.jpg](https://s2.ax1x.com/2019/06/12/VR2C24.jpg)
+
 在挖掘好物清单时，建议聆听 [极致音乐清单](http://www.xiami.com/search/album/?spm=a1z1s.3521865.23309985.3.eDI0b6&key=The+Essential+Masterpieces)
 
 

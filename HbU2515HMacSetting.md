@@ -40,3 +40,7 @@ U2515H 的 productID 为 0xd06e，因此上面的文件夹里要有 DisplayProdu
 ### ChangeLog
 
 - 2017-12-02 创建
+
+- 用终端解决MacBook Pro外接显示器发热问题 | 慧行说
+- 
+https://www.liuyude.com/Using_the_Terminal_to_Solve_the_Problem_of_External_Display_on_MacBook_Pro.html
