@@ -1,4 +1,4 @@
-
+# 
 # 好博客清单
 
 如何为之好？
@@ -23,13 +23,13 @@ PS：我的原创作品列表：http://www.cnfeat.com/about/
 
 | 评分     | 作者                   | 名称                                                                  | 备注         |
 | :-----   | :-----                 | :------                                                               | :-----       |
-| 开智社群 | #                      | #                                                                     | #            |
+|  | #                      | #                                                                     | #            |
 | ★★★★☆    | 阳志平                 | [阳志平的网志](http://www.yangzhiping.com)                            | OMC          |
 | ★★★★☆    | 大妈                   | [#是也乎#ZoomQuiet](http://blog.zoomquiet.io)                         | OMC          |
 | ★★★★☆    | 吕小荣                 | [吕小荣的笔记](http://mednoter.com)                                   | OMC          |
+| ★★★★☆    | 笨方法学写作           | [笨方法学写作](http://www.cnfeat.com)                                 | 博客         |
 | ★★★★☆    | TonyYet                | [Accentuate the Positive](http://www.tonyyet.com)                     | OMC          |
 | ★★★★☆    | Yixuan                 | [Yixuan](http://yixuan.li/)                                           | OMC          |
-| ★★★★☆    | 00                     | [00's Adventure](http://www.uegeek.com/)                              | OMC          |
 | 博客     | #                      | #                                                                     | #            |
 | ★★★★☆    | 傅国涌                 | [笔底波澜](http://blog.sina.com.cn/fuguoyong)                         | #            |
 | ★★★★☆    | Yurii                  | [乱象，印迹](http://www.luanxiang.org/blog)                           | #            |
@@ -83,6 +83,8 @@ PS：我的原创作品列表：http://www.cnfeat.com/about/
 | ★★★★☆    | 王佩                   | [白板报 ](http://www.baibanbao.net/)                                  | #            |
 | ★★★★☆    | 比目鱼                 | [比目鱼博客](http://www.bimuyu.com/blog/)                             | #            |
 | ★★★★☆    | 道哥                   | [道哥的黑板报](http://www1.taosay.net/)                               | #            |
+| ★★★★☆    | 王垠                   | [当然我是在淡](http://www.yinwang.org/)                               | #            |
+| ★★★★☆    | 彭明辉                   | [清大彭明辉的部落格](https://mhperng.blogspot.com/)                       | #            |
 | 站点     | #                      | #                                                                     | #            |
 | ★★★★☆    | 喷嚏网                 | [喷嚏网](http://www.dapenti.com/)                                     | #            |
 | ★★★★☆    | apple4us               | [apple4us](http://apple4us.com/)                                      | #            |
@@ -133,19 +135,28 @@ PS：我的原创作品列表：http://www.cnfeat.com/about/
 | ★★★★☆  | 纯银V    | [纯银V](http://www.jianshu.com/users/c22ccc510fb9/latest_articles) | #      |
 | ★★★★☆  | 饱醉豚   | [饱醉豚](http://www.jianshu.com/users/rHypHw/latest_articles)      | #      |
 | ★★★★☆  | 华杉2009 | [华杉2009](http://www.jianshu.com/u/d04e5c849512)                  | #      |
-| ★★★★☆  | 王佩     | [[王佩](http://www.jianshu.com/u/neLruC)                           | #      |
+| ★★★★☆  | 王佩     | [王佩](http://www.jianshu.com/u/neLruC)                           | #      |
 | ★★★★☆  | 待补增   | [待补增](http://www.cnfeat.com)                                    | #      |
 
 
-## 好·微博清单
+## 好·社交媒体清单
 
 | 评分   | 作者         | 名称    | 备注   |
 | :----- | :-----       | :------ | :----- |
-| ★★★★☆  | @华杉2009    | -       | #      |
-| ★★★★☆  | @卢昌海      | -       | #      |
-| ★★★★☆  | @李笑来      | -       | #      |
-| ★★★★☆  | @田春冰河    | -       | #      |
-| ★★★★☆  | @一天世界IPN | -       | #      |
+| ★★★★☆  | @华杉2009    | -       | 微博     |
+| ★★★★☆  | @卢昌海      | -       | 微博      |
+| ★★★★☆  | @田春冰河    | -       | 微博     |
+| ★★★★☆  | @一天世界IPN | -       | 微博      |
+| ★★★★☆  | @蔡学镛 | -       | 微博      |
+| ★★★★☆  | @莫敢 | -       | 微博      |
+| ★★★★☆  | @剪枝者 | -       | 微博      |
+| ★★★★☆  | @王兴 | -       | 饭否      |
+| ★★★★☆  | @mindpixel | -       | 豆瓣      |
+| ★★★★☆  | @Azeril | -       | 豆瓣      |
+| ★★★★☆  | @小波福娃 | -       | 豆瓣      |
+
+
+
 
 
 
@@ -188,13 +199,11 @@ PS：我的原创作品列表：http://www.cnfeat.com/about/
 	+ Mac：[Reeder](http://reederapp.com/)
 	+ iOS：[Reeder](http://reederapp.com/)
 	+ Win：待补增
-	+ Andriod：待补增
+	+ Andriod：Feedme、feedly
 
 ### 如何使用[inoreader](http://www.inoreader.com/)
 
 注册 inoreader 之后，直接点「+」，粘贴博客地址即可。
-
-![](http://cnfeat.qiniudn.com/Image-000-11-05-10-01.png)
 
 参考：[RSS订阅的使用](http://www.jianshu.com/p/a589bce7d7cf)
 
@@ -203,13 +212,9 @@ PS：我的原创作品列表：http://www.cnfeat.com/about/
 
 [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?utm_source=chrome-ntp-icon) 是 Google 官方出品的插件，虽然最后的一次的更新是在 2014年8月25日，可宝刀未老。
 
-此插件可以自动识别出绝大部分支持 RSS 订阅的站点，并且在地址栏显示可订阅的图标，单击此图标，则可以选择订阅的组块。
-
-![](http://openmindclub.qiniudn.com/team/cnfeat/image/RSS-Subscription.jpg?imageMogr2/thumbnail/400x)
+此插件可以自动识别出绝大部分支持 RSS 订阅的站点，并且在地址栏显示可订阅的图标，单击图标，则可以选择订阅的组块。
 
 安装此插件之后，需要对 RSS Subscription Extension 进行配置，进入该插件的设置，增加一条如下的设置即可。
-
-![](http://openmindclub.qiniudn.com/team/cnfeat/image/inoreader-setting.jpg)
 
 > http://www.inoreader.com/feed/%s
 
@@ -225,6 +230,7 @@ PS：我的原创作品列表：http://www.cnfeat.com/about/
 
 ## 更新
 
+- 2019-11-13 修正表格，增加博客与社交媒体
 - 2019-02-23 更新订阅清单
 - 2017-07-14 大量更新订阅清单
 - 2017-07-11 更新微信公众号 RSS 订阅工具网址
