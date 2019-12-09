@@ -8,6 +8,8 @@
 
 站点：
 
+
+
 - [jekyllthemes](http://jekyllthemes.org/)
 - [jekyllrc](http://themes.jekyllrc.org/)
 
@@ -84,7 +86,9 @@
 - [About · Hyde](https://hyde.getpoole.com/about/)
 - [About · Hyde](https://hyde.getpoole.com/about/)
 	+ 改成我的简历
-Good
+
+
+## Good
 
 - https://suyan.github.io
 	+ [suyan/suyan.github.io: My Blog.](https://github.com/suyan/suyan.github.io)
@@ -93,8 +97,13 @@ Good
 - [极简主题：TeXt Theme - Qi's Blog](https://tianqi.name/blog/2017/10/05/TeXt-theme.html)
 - https://livid.github.io
 	+ [livid/livid.github.io](https://github.com/livid/livid.github.io)
+- https://blog.tmaize.net/
+	- [TMaize/tmaize-blog: 一款jekyll主题，简洁纯净，支持自适应](https://github.com/TMaize/tmaize-blog)
+- https://songchunlin.net/cn/
+	- [songchunlin/cn: Chunlin's Chinese Website](https://github.com/songchunlin/cn)
 
-展示类
+
+## 展示类
 
 - https://liberxue.github.io/
 	+ [Liberxue/liberxue.github.io: Liberxue blog for Jekyll themes 轻量级自适应 简洁 卡片式博客主题 30秒搞定GitHub blog](https://github.com/Liberxue/liberxue.github.io)
