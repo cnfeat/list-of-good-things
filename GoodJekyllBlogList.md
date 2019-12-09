@@ -14,92 +14,92 @@
 - [jekyllrc](http://themes.jekyllrc.org/)
 
 - [ Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/about/)
-	- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
-- http://tennc.github.io
-	- [tennc/tennc.github.io](https://github.com/tennc/tennc.github.io)
+	+ [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
+- https://tennc.github.io
+	+ [tennc/tennc.github.io](https://github.com/tennc/tennc.github.io)
 - http://mesule.com
-	- [cnfeat/mesule.com](https://github.com/cnfeat/mesule.com)
-- http://cnfeat.github.io
+	+ [cnfeat/mesule.com](https://github.com/cnfeat/mesule.com)
+- https://cnfeat.github.io
 	+ [cnfeat/cnfeat.github.io](https://github.com/cnfeat/cnfeat.github.io)
-- http://yihui.name/cn/
-	+ [yihui/cn:](https://github.com/yihui/cn)
+- https://yihui.name/cn/
+	+ [yihui/cn](https://github.com/yihui/cn)
 	+ dongyado.github.io
 	+ [dongyado/dongyado.github.io](https://github.com/dongyado/dongyado.github.io)
-- http://synckey.github.io/
+- https://synckey.github.io
 	+ [synckey/synckey.github.io](https://github.com/synckey/synckey.github.io)
-- http://pala.github.io
+- https://pala.github.io
 	+ [pala/pala.github.io](https://github.com/pala/pala.github.io)
-- http://lhzhang.com
+- https://lhzhang.com
 	+ [waynezhang/blog](https://github.com/waynezhang/blog)
-- http://mojombo.github.io
+- https://mojombo.github.io
 	+ [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io)
-- http://pazzilivo.github.io/
+- https://pazzilivo.github.io
 	+ [Pazzilivo/pazzilivo.github.com](https://github.com/Pazzilivo/pazzilivo.github.com)
-- http://xiaolai.github.com
-	+ [xiaolai/xiaolai.github.com](https://github.com/xiaolai/xiaolai.github.com)
-- http://jasonlong.github.io/cayman-theme/
+- https://xiaolai.github.io
+	+ [xiaolai/xiaolai.github.io](https://github.com/xiaolai/xiaolai.github.io)
+- https://jasonlong.github.io/cayman-theme/
 	+ [jasonlong/cayman-theme](https://github.com/jasonlong/cayman-theme)
-- http://jglovier.github.io
+- https://jglovier.github.io
 	+ [jglovier/jglovier.github.io](https://github.com/jglovier/jglovier.github.io)
-- http://hospitalrun.io/
+- https://hospitalrun.github.io
 	+ [HospitalRun/hospitalrun.github.io](https://github.com/HospitalRun/hospitalrun.github.io)
-- http://emptymalei.github.io
+- https://emptymalei.github.io
 	+ [emptymalei/emptymalei.github.io](https://github.com/emptymalei/emptymalei.github.io)
-- https://mdluo.github.io/
+- https://mdluo.github.io
 	- [mdluo/mdluo.github.io](https://github.com/mdluo/mdluo.github.io)
 - https://vagarlee.github.io
 	+ [vagarlee/vagarlee.github.io](https://github.com/vagarlee/vagarlee.github.io)
 + https://nicejade.github.io
 	* [nicejade/nicejade.github.io: My Blog](https://github.com/nicejade/nicejade.github.io)
-- http://chibicode.com
-	+ [chibicode/chibicode.com](https://github.com/chibicode/chibicode.com)
+- https://chibicode.com
+	+ [chibicode/chibicode](https://github.com/chibicode/chibicode)
 - https://ellekasai.com
-	+ [chibicode/ellekasai.com](https://github.com/chibicode/ellekasai.com)
-- http://rpg.chibicode.com/
-	+ [Main | 98129 RPG](http://rpg.chibicode.com/)
-- http://xiaoronglv.github.io
-	- [muan/scribble: A Jekyll theme.](https://github.com/muan/scribble)
-	- [xiaoronglv/xiaoronglv.github.io](https://github.com/xiaoronglv/xiaoronglv.github.io)
-- http://shruby.github.io
+	+ [ellekasai/ellekasai.com](https://github.com/ellekasai/ellekasai.com)
+- http://rpg.chibicode.com
+	+ [chibicode/rpg.chibicode.com](https://github.com/chibicode/rpg.chibicode.com)
+- https://xiaoronglv.github.io
+	+ [muan/scribble: A Jekyll theme.](https://github.com/muan/scribble)
+	+ [xiaoronglv/xiaoronglv.github.io](https://github.com/xiaoronglv/xiaoronglv.github.io)
+- https://shruby.github.io
 	+ [shruby/shruby.github.io: Shanghai Ruby User Group](https://github.com/shruby/shruby.github.io)
-- http://sneezry.github.com
+- https://sneezry.github.com
 	+ [Sneezry/sneezry.github.com: Blog](https://github.com/Sneezry/sneezry.github.com)
-- http://blog.jekyllwriter.com/
+- https://blog.jekyllwriter.com
 	+ [JekyllWriter/blog](https://github.com/JekyllWriter/blog)
-- http://ShuangFarmer.github.io
+- https://shuangfarmer.github.io
 	+ [ShuangFarmer/ShuangFarmer.github.io: 一亩田](https://github.com/ShuangFarmer/ShuangFarmer.github.io)
 - https://4679.github.io
 	+ [4679/4679.github.io](https://github.com/4679/4679.github.io)
-- https://blog.tankywoo.com/
+- https://blog.tankywoo.com
 	+ [tankywoo/blog.tankywoo.com: My Blog](https://github.com/tankywoo/blog.tankywoo.com)
-- http://blog.fooleap.org/
+- https://fooleap.github.io
 	+ [fooleap/fooleap.github.io: new blog](https://github.com/fooleap/fooleap.github.io)
-- http://wjp2013.github.io/
+- https://wjp2013.github.io
 	+ [wjp2013/wjp2013.github.io: 个人技术博客](https://github.com/wjp2013/wjp2013.github.io)
-- http://materliu.github.io/
+- https://materliu.github.io
 	+ [materliu/materliu.github.io: my personal github pages!](https://github.com/materliu/materliu.github.io)
-- http://bambooom.github.io/
+- https://bambooom.github.io
 	+ [bambooom/bambooom.github.io: http://🍣🐱😎🎱🍇🍪🚰🏈.🍕💩.ws](https://github.com/bambooom/bambooom.github.io)
-- https://dylanninin.com/
+- https://dylanninin.github.io
 	+ [dylanninin/dylanninin.github.com: Personal blog powered by GitHub Pages](https://github.com/dylanninin/dylanninin.github.com)
-- [About Me](http://ankitsultana.com/researcher/)
-- [About · Hyde](http://hyde.getpoole.com/about/)
-- [About · Hyde](http://hyde.getpoole.com/about/)
+- [About Me](https://ankitsultana.com/researcher/)
+- [About · Hyde](https://hyde.getpoole.com/about/)
+- [About · Hyde](https://hyde.getpoole.com/about/)
 	+ 改成我的简历
 
 
 ## Good
 
-- http://yansu.org/
+- https://suyan.github.io
 	+ [suyan/suyan.github.io: My Blog.](https://github.com/suyan/suyan.github.io)
-- http://peiwen.lu/
+- https://p233.github.io
 	+ [P233/P233.github.io](https://github.com/P233/P233.github.io)
 - [极简主题：TeXt Theme - Qi's Blog](https://tianqi.name/blog/2017/10/05/TeXt-theme.html)
-- http://livid.github.io/
+- https://livid.github.io
 	+ [livid/livid.github.io](https://github.com/livid/livid.github.io)
 - https://blog.tmaize.net/
 	- [TMaize/tmaize-blog: 一款jekyll主题，简洁纯净，支持自适应](https://github.com/TMaize/tmaize-blog)
-- http://songchunlin.net/cn/
+- https://songchunlin.net/cn/
 	- [songchunlin/cn: Chunlin's Chinese Website](https://github.com/songchunlin/cn)
 
 
@@ -113,9 +113,9 @@
 - [jekyllDecent](http://jekyllthemes.org/themes/jekyllDecent/)
 - [Twenty](http://jekyllthemes.org/themes/twenty/)
 - [Dopetrope](http://jekyllthemes.org/themes/dopetrope/)
-- http://templated.co
+- https://templated.co
 - [Creative - Start Bootstrap Theme](https://volny.github.io/creative-theme-jekyll/)
-- [About · Hyde](http://hyde.getpoole.com/about/)
+- [About · Hyde](https://hyde.getpoole.com/about/)
 
 更多模板请看
 
