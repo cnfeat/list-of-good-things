@@ -101,8 +101,13 @@
 	- [TMaize/tmaize-blog: 一款jekyll主题，简洁纯净，支持自适应](https://github.com/TMaize/tmaize-blog)
 - http://songchunlin.net/cn/
 	- [songchunlin/cn: Chunlin's Chinese Website](https://github.com/songchunlin/cn)
-
-
+- https://erl.im/archive
+	- [erlzhang/jekyll-theme-persephone: A minimal jekyll theme for building books and blog.](https://github.com/erlzhang/jekyll-theme-persephone)
+- https://blog.joway.io
+	+ [joway/hugo-theme-yinyang: a black-white theme for Hugo.](https://github.com/joway/hugo-theme-yinyang)
+- http://huangyz.name/moving/
+	- [huangyz0918/moving: A clean and minimalist theme for Jekyll](https://github.com/huangyz0918/moving)
+	
 ## 展示类
 
 - https://liberxue.github.io/
