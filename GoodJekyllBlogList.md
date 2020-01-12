@@ -108,6 +108,11 @@
 - http://huangyz.name/moving/
 	- [huangyz0918/moving: A clean and minimalist theme for Jekyll](https://github.com/huangyz0918/moving)
 	
+	
+azimuth
+源码：https://github.com/stackbithq/stackbit-theme-azimuth
+浏览：https://themes.stackbit.com/demos/azimuth
+	
 ## 展示类
 
 - https://liberxue.github.io/
