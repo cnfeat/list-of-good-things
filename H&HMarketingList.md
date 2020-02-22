@@ -1,12 +1,11 @@
 # 华与华营销案例学习清单
 
 
-
 读过华与华的《超级符号就是超级创意》，也读过华杉的《华杉讲透孙子兵法》，深深认同华与华的广告价值观，所以此前华与华与得到合作设计出了「很丑」的猫头鹰，我在知乎的答案评价是「新 LOGO 是很丑，但我服！」。
 https://www.zhihu.com/question/279026500/answer/404642710
 
 
-我深知，华与华的行动理论是构建在大量营销学、心理学、符号学与认知科学等学科基础之上的，表面上你看没有创意，没有品味，但实际做起来却效果出奇的好，所以到我开展新项目要设计一个安全领域项目定位与口号时，想到与将华与华所做过的案例解析都整理出来读一遍，读完之后果然深有启发，一天写完了新项目的运营手册大纲。
+我深知，华与华的行动理论是构建在大量营销学、心理学、符号学与认知科学等学科基础之上的，表面上你看没有创意，没有品味，但实际做起来却效果出奇的好，所以到我开展新项目要设计一个安全领域项目定位与口号时，想到与将华与华所做过的案例解析都整理出来读一遍，读完之后果然深有启发，一天写完了新项目的运营手册大纲。
 以下是我在「华与华商学院」公众号整理出来《华与华案例解析清单》，方便自己在实践中反复阅读，各位也可以参考学习。
 
 https://github.com/cnfeat/GoodThingList/blob/master/GoodMarketinghuayuhua.md
@@ -14,11 +13,13 @@ https://github.com/cnfeat/GoodThingList/blob/master/GoodMarketinghuayuhua.md
 
 ## 价值观
 
-
-* [2017年会演讲：迈向百亿咨询集团](https://mp.weixin.qq.com/s?__biz=MjM5MTk2NjAxNA==&mid=2650794988&idx=1&sn=3e18ccf76eaa8005689246511573c41b&chksm=bea63dbd89d1b4abd54f773d3c4f59ac77d55382046006694f29d83a832a99210d2a62780676&scene=21#wechat_redirect)
-* [2018年会演讲：华与华王道2029（上）](http://mp.weixin.qq.com/s?__biz=MjM5MTk2NjAxNA==&mid=2650797174&idx=1&sn=de9dd3e005beb4ec4877fa73ea59c9d6&chksm=bea6222789d1ab3189b679f7349beb46c705c6c4ea3cc14d4346997b853a6c06b1df55d0d3e2&scene=21#wechat_redirect)
-* [2018年会演讲：华与华王道2029（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTk2NjAxNA==&mid=2650797186&idx=1&sn=bfa1e1f629f7f8b1829c6b87c9de0f89&chksm=bea622d389d1abc51b6b0c2dc2e5680234dcddc309c7cdc49c9a524395765b47821376b4134b&scene=21#wechat_redirect)
-* [2019年会演讲：终身事业，终身顾客](https://mp.weixin.qq.com/s/OsgmM61PebXK2v3IMXixkA)
+* [2015：我们的事业可以持续一万年](http://www.huayuhua.com/150123-1.html)
+* 2016：素养
+* [2017年：扎实：迈向百亿咨询集团](https://mp.weixin.qq.com/s?__biz=MjM5MTk2NjAxNA==&mid=2650794988&idx=1&sn=3e18ccf76eaa8005689246511573c41b&chksm=bea63dbd89d1b4abd54f773d3c4f59ac77d55382046006694f29d83a832a99210d2a62780676&scene=21#wechat_redirect)
+* [2018年：凡事彻底：华与华王道2029（上）](http://mp.weixin.qq.com/s?__biz=MjM5MTk2NjAxNA==&mid=2650797174&idx=1&sn=de9dd3e005beb4ec4877fa73ea59c9d6&chksm=bea6222789d1ab3189b679f7349beb46c705c6c4ea3cc14d4346997b853a6c06b1df55d0d3e2&scene=21#wechat_redirect)
+* [2018年：凡事彻底：华与华王道2029（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTk2NjAxNA==&mid=2650797186&idx=1&sn=bfa1e1f629f7f8b1829c6b87c9de0f89&chksm=bea622d389d1abc51b6b0c2dc2e5680234dcddc309c7cdc49c9a524395765b47821376b4134b&scene=21#wechat_redirect)
+* [2019年：磨练：终身事业，终身顾客](https://mp.weixin.qq.com/s/OsgmM61PebXK2v3IMXixkA)
+* [2020年：勤奋：对客户的事业绝对忠诚](https://mp.weixin.qq.com/s/FvVXZMwXcVzowebrwdLcfg)
 
 
 ## 精选
@@ -85,4 +86,5 @@ https://github.com/cnfeat/GoodThingList/blob/master/GoodMarketinghuayuhua.md
 
 ### Changelog
 
-- 2019-01-24 整理更新 
+- 2019-01-24 整理更新
+- 2020-02-09 更新年会主题 

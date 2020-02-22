@@ -217,15 +217,15 @@ h5 {
 
 
 h6 {
-	font-size: 18px;
+	font-size: 16px;
 	min-height: 32px;
 	line-height: 14px;
 	border-bottom: solid 1px rgb(0, 0, 0);
-	color: #6375A9;
+	color: #001246;
 	display: inline-block;
 	border-bottom-width: 3px;
 	border-bottom-style: solid;
-	border-color: #6375A9;
+	border-color: #001246;
 	padding-top: 5px;
 	padding-right: 0.5em;
 	padding-left: 0.5em;
@@ -233,7 +233,7 @@ h6 {
 	margin: 1em auto;
 	padding: 0.5em 0;
 	text-align: center;
-	width: 40%;
+	width: 20%;
 	font-weight: normal;
 	display: flex;
 	flex-direction: column;
