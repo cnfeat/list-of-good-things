@@ -43,18 +43,31 @@ https://t.me/benfangfa
 
 * [好·Mac 应用清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodMacAppList.md)
 * [好·Mac使用技巧清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodMacSkillList.md)
-* [Macbook 扩容解决方案](https://github.com/cnfeat/GoodThingList/blob/master/MacbookProSSDUpdate.md)
 * [好·插件清单](https://github.com/cnfeat/GoodThingList/blob/master/GoodChromePluginList.md)
 * [好·iPhone 设置技巧](https://github.com/cnfeat/GoodThingList/blob/master/MyiPhoneDestopSetting.md)
 
-## 我的原创好物推荐
+## 笨方法成事
+
+世上无难事，只怕笨方法。
+
+100%的人都想成事，99%的人成不了事，为什么？
+
+废弛、畏缩、屈挠、间断，这四条往往是常人不能成事的关键，要么是半途而废，要么是在困难面前畏缩，要么是在压力面前妥协，要么是有别的事打岔就间断，总之是执守不了，坚持不住。
+
+笨方法想做什么？
+
+帮你打赢人生持久战。
+
+助你做成难事。
 
 
-### 笨方法学写作
+[笨方法成事 - 世上无难事，只怕笨方法](http://www.learnthingsthehardway.com/)
 
-你是写作新手，雄心万丈买过价格 1000+ 写作课程，但依然无法写作，为什么？
 
-一是大部分写作课程只谈概念方法，短短十几天，你只听不教，只说不练，白白费钱；二是大部分写作课程没有习题，没有循序渐进，没有科学指导，立刻丧失动力。 
+## 笨方法学写作
+
+
+于我而言，写作是人的创造性适应过程，而不是追逐名利的工具，写作应是主动的，符合内心抉择的行动，它的真正意义并不在外在功利，而在于从内部改造自己的生活方式，是「身心之学」，核心是自我修养。
 
 在《笨方法学写作》，你将 1）学习卡片创作，掌握零基础新手写作技巧，轻松学会写作；2) 得到科学写作指导，刻意练习 52 个习题，从易到难，从快到慢，重新爱上写作。 
 
@@ -62,10 +75,10 @@ https://t.me/benfangfa
 
 本课程已更新超 10W+ 字，已涨价一次，目前每周持续升级， 未来准备升价至 399 元。
 
-地址：http://t.xiaomiquan.com/ufe23vv
+[笨方法学写作官网](http://www.LearnWritingTheHardWay.cn)
 
 
-### 博客/公众号：笨方法学写作
+## 博客/公众号：笨方法学写作
 
 汇总我写过的所有公开文章。内容包括写作方法、跨学科学习、认知科学、翻译、千字文练习等。
 
@@ -73,16 +86,6 @@ https://t.me/benfangfa
 
 地址：www.cnfeat.com 
 
-
-
-# 笨方法学写作 相关链接
-
-- [笨方法学写作 官网](http://www.LearnWritingTheHardWay.cn)
-- [笨方法学写作 博客](http://www.cnfeat.com)：
-- [笨方法学习故事](http://story.learnwritingthehardway.cn/)
-- [笨方法文集](http://book.learnthingsthehardway.com/)
-- [卡片创作文集](http://card.learnwritingthehardway.cn/)
-- [笨方法学写作参考书单](https://www.douban.com/doulist/45064751/)
 
 ## 最后
 
