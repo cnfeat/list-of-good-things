@@ -8,7 +8,8 @@
 
 站点：
 
-
+- [brianlovin/brian-lovin-next: My personal site](https://github.com/brianlovin/brian-lovin-next)
+-  https://brianlovin.com/
 
 - [jekyllthemes](http://jekyllthemes.org/)
 - [jekyllrc](http://themes.jekyllrc.org/)
