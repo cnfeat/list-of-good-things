@@ -3,6 +3,8 @@
 
 [Blogging Like a Hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)
 
+本博客使用Jekyll搭建，在选定本博客主题之前，翻阅了大量主题，收集如下。
+
 
 以下博客主题适用于 Jekyll  
 
