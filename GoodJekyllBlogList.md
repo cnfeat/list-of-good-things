@@ -8,10 +8,16 @@
 
 以下博客主题适用于 Jekyll  
 
+ Twitter
+https://twitter.com/_zackwu/status/1463505625841766405
+
 站点：
 
 - [brianlovin/brian-lovin-next: My personal site](https://github.com/brianlovin/brian-lovin-next)
 -  https://brianlovin.com/
+
+Skinny Bones
+https://mmistakes.github.io/jekyll-theme-skinny-bones/
 
 - [jekyllthemes](http://jekyllthemes.org/)
 - [jekyllrc](http://themes.jekyllrc.org/)
